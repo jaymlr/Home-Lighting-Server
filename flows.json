@@ -133,20 +133,11 @@
             "2d95007a.50c",
             "382468fc.f74b88",
             "87e8f71.5531408",
-            "92c95a89.c59c3",
             "8a2c8b42.d3f698",
-            "ee443b68.ce9028",
             "71b22309.0b273c",
             "b9463a62.627798",
             "bd42b0349c7465b3",
             "54d840e09105b6f0",
-            "cad7b509094089f4",
-            "aff0779a7a4a8070",
-            "45aa8c2cecfa90c1",
-            "3ec213b800b4e140",
-            "b4478aec3e29d8b6",
-            "7edde5ec9a97b50c",
-            "74ecb37c8ed17ab5",
             "ccedf52422ba5e8f",
             "0c88a19037c5e628",
             "acbf3b35b01e7910",
@@ -154,10 +145,14 @@
             "13c7a2021dd6ebdb",
             "93bc2fba22487a2d",
             "c2e5107e65740bc6",
-            "555e258961dfb057"
+            "555e258961dfb057",
+            "a7f160078b74a6a8",
+            "1d26b043bd39bdf8"
         ],
         "x": 49,
-        "y": 779
+        "y": 819,
+        "w": 697,
+        "h": 372
     },
     {
         "id": "55f93a50.9f446c",
@@ -174,17 +169,17 @@
             "ff1456ce.1473a8",
             "3954f8fa.ed8b",
             "bf80452e.12589",
-            "c1c989cac3aefac2",
-            "a7fb591b31e7d64d",
-            "015379671d6c6d19",
             "f25549871c032016",
             "7c191475e735ddaf",
             "a8e7335b4eceeb2e",
             "9bd436b2a904e221",
-            "9bff7d3e634a475c"
+            "9bff7d3e634a475c",
+            "f2ce4c4ac39e8177"
         ],
         "x": 49,
-        "y": 1279
+        "y": 1279,
+        "w": 697,
+        "h": 187
     },
     {
         "id": "d360b8ad.f6e13",
@@ -209,7 +204,9 @@
             "c4747a73.219938"
         ],
         "x": 54,
-        "y": 539
+        "y": 539,
+        "w": 322,
+        "h": 202
     },
     {
         "id": "9197b9a2.20443",
@@ -228,7 +225,9 @@
             "b69f44a51f4e166e"
         ],
         "x": 54,
-        "y": 394
+        "y": 394,
+        "w": 492,
+        "h": 127
     },
     {
         "id": "32affb4.73da304",
@@ -275,7 +274,9 @@
             "84dbd1312bede6f0"
         ],
         "x": 59,
-        "y": 109
+        "y": 109,
+        "w": 1182,
+        "h": 749.5
     },
     {
         "id": "f12dcaa8.49dc4",
@@ -308,7 +309,9 @@
             "b53ae83ef78be79f"
         ],
         "x": 49,
-        "y": 1504
+        "y": 1504,
+        "w": 647,
+        "h": 462
     },
     {
         "id": "550669fd.7c4fe",
@@ -327,7 +330,9 @@
             "ab4a76b6.7c4ea8"
         ],
         "x": 99,
-        "y": 106.5
+        "y": 106.5,
+        "w": 252,
+        "h": 382
     },
     {
         "id": "ca990487.342128",
@@ -346,7 +351,9 @@
             "6d5499a6.60d888"
         ],
         "x": 59,
-        "y": 204
+        "y": 204,
+        "w": 427,
+        "h": 127
     },
     {
         "id": "6886b642.21d75",
@@ -367,7 +374,9 @@
             "9025e275.f4092"
         ],
         "x": 24,
-        "y": 984
+        "y": 984,
+        "w": 1147,
+        "h": 134
     },
     {
         "id": "fb7cb935.596eb",
@@ -476,7 +485,9 @@
             "7465375c.2c7e7"
         ],
         "x": 59,
-        "y": 484
+        "y": 484,
+        "w": 552,
+        "h": 172
     },
     {
         "id": "33880559.9b10c2",
@@ -495,7 +506,9 @@
             "cc645e75.2788f"
         ],
         "x": 59,
-        "y": 344
+        "y": 344,
+        "w": 552,
+        "h": 127
     },
     {
         "id": "bb2f78b8.c72478",
@@ -518,7 +531,9 @@
             "88f72e932d437a87"
         ],
         "x": 64,
-        "y": 924
+        "y": 924,
+        "w": 747,
+        "h": 187
     },
     {
         "id": "fe313a3b.21f39",
@@ -540,7 +555,9 @@
             "c8103de0.d1dda"
         ],
         "x": 64,
-        "y": 1129
+        "y": 1129,
+        "w": 712,
+        "h": 152
     },
     {
         "id": "1564242e.780d3c",
@@ -571,7 +588,9 @@
             "fd969992.793eb"
         ],
         "x": 3,
-        "y": 1578
+        "y": 1578,
+        "w": 663,
+        "h": 724
     },
     {
         "id": "531a278c.0f56c8",
@@ -606,7 +625,9 @@
             "6f2f2afb.d17d14"
         ],
         "x": 524,
-        "y": 84
+        "y": 84,
+        "w": 317,
+        "h": 297
     },
     {
         "id": "533e0b43.cd79e4",
@@ -630,7 +651,9 @@
             "bcb310ce.dfe0f"
         ],
         "x": 529,
-        "y": 774
+        "y": 774,
+        "w": 267,
+        "h": 152
     },
     {
         "id": "f6a85cf0.ee477",
@@ -650,7 +673,9 @@
             "a41addd1.48f9c"
         ],
         "x": 529,
-        "y": 394
+        "y": 394,
+        "w": 302,
+        "h": 117
     },
     {
         "id": "9405e35e.f25e3",
@@ -668,7 +693,9 @@
             "25c8714e.07967e"
         ],
         "x": 529,
-        "y": 519
+        "y": 519,
+        "w": 307,
+        "h": 87
     },
     {
         "id": "5505d82c.e6b3b8",
@@ -688,7 +715,9 @@
             "18d94e6c.7c7e82"
         ],
         "x": 529,
-        "y": 1034
+        "y": 1034,
+        "w": 387,
+        "h": 82
     },
     {
         "id": "cb5be045.a7f7a",
@@ -712,7 +741,9 @@
             "1ac9e8ee.b50d47"
         ],
         "x": 529,
-        "y": 614
+        "y": 614,
+        "w": 267,
+        "h": 152
     },
     {
         "id": "576fbc05.830ae4",
@@ -730,7 +761,9 @@
             "e806653e.4c0e78"
         ],
         "x": 534,
-        "y": 934
+        "y": 934,
+        "w": 272,
+        "h": 92
     },
     {
         "id": "abc0e0ea.f83b7",
@@ -750,7 +783,9 @@
             "b91dab7c.eba0c8"
         ],
         "x": 524,
-        "y": 1239
+        "y": 1239,
+        "w": 412,
+        "h": 82
     },
     {
         "id": "f03313cb.0ccc3",
@@ -1030,7 +1065,9 @@
             "b578c957.365af8"
         ],
         "x": 99,
-        "y": 736.5
+        "y": 736.5,
+        "w": 472,
+        "h": 427
     },
     {
         "id": "11ec9700.a4f3c1",
@@ -1055,7 +1092,9 @@
             "33b9f0f1.3f48d8"
         ],
         "x": 59,
-        "y": 4
+        "y": 4,
+        "w": 732,
+        "h": 182
     },
     {
         "id": "4b38df7.1a9712",
@@ -1090,7 +1129,9 @@
             "587b20e1.40da5"
         ],
         "x": 59,
-        "y": 679
+        "y": 679,
+        "w": 427,
+        "h": 127
     },
     {
         "id": "8d4f7f6e06c46ee5",
@@ -1116,7 +1157,9 @@
             "7d04958dea0fe697"
         ],
         "x": 49,
-        "y": 1149
+        "y": 1149,
+        "w": 797,
+        "h": 162
     },
     {
         "id": "d06933f5f3387ed1",
@@ -1142,7 +1185,9 @@
             "531d80b1a92322d7"
         ],
         "x": 49,
-        "y": 1369
+        "y": 1369,
+        "w": 797,
+        "h": 162
     },
     {
         "id": "6342951718fffe95",
@@ -1176,7 +1221,9 @@
             "2ac212c6.2a74a6"
         ],
         "x": 34,
-        "y": 524
+        "y": 524,
+        "w": 1417,
+        "h": 367
     },
     {
         "id": "4ef308883d5daf52",
@@ -1217,7 +1264,9 @@
             "b358abe831fbc9bd"
         ],
         "x": 33.5,
-        "y": 34
+        "y": 34,
+        "w": 852,
+        "h": 462
     },
     {
         "id": "a4e285991c7fcfba",
@@ -1243,7 +1292,9 @@
             "27e49a5e208929c1"
         ],
         "x": 129,
-        "y": 59
+        "y": 59,
+        "w": 667,
+        "h": 257
     },
     {
         "id": "70ad0114e2e0acc8",
@@ -1263,7 +1314,9 @@
             "b2adf463.9122e8"
         ],
         "x": 64,
-        "y": 1304
+        "y": 1304,
+        "w": 807,
+        "h": 157
     },
     {
         "id": "876be6f3f4de2bb4",
@@ -1363,7 +1416,9 @@
             "459e361e.6b89d8"
         ],
         "x": 63.671165466308594,
-        "y": 468.0459871292114
+        "y": 468.0459871292114,
+        "w": 1219.3288192749023,
+        "h": 572.9539461135864
     },
     {
         "id": "4845761d1d42223f",
@@ -1416,7 +1471,9 @@
             "635c8b77.f64074"
         ],
         "x": 65.95687103271484,
-        "y": 1138.18896484375
+        "y": 1138.18896484375,
+        "w": 1204.043113708496,
+        "h": 590.8109970092773
     },
     {
         "id": "ce1aa9bbd4ee1200",
@@ -1446,7 +1503,9 @@
             "eb57957d.0cd0b8"
         ],
         "x": 66,
-        "y": 1764
+        "y": 1764,
+        "w": 950,
+        "h": 346.58545303344727
     },
     {
         "id": "4ee92de86b92735c",
@@ -1474,7 +1533,9 @@
             "a881805.2e642"
         ],
         "x": 64,
-        "y": 2139
+        "y": 2139,
+        "w": 1012,
+        "h": 237.28570556640625
     },
     {
         "id": "b6a81406ef7d55cf",
@@ -1492,7 +1553,9 @@
             "bdadfd038b74e91d"
         ],
         "x": 529,
-        "y": 1134
+        "y": 1134,
+        "w": 407,
+        "h": 87
     },
     {
         "id": "12fd20fe02223fb1",
@@ -1537,7 +1600,9 @@
             "85d47b71b0d7e0e6"
         ],
         "x": 854,
-        "y": 4
+        "y": 4,
+        "w": 732,
+        "h": 182
     },
     {
         "id": "38d5290d.8c37c6",
@@ -1555,7 +1620,9 @@
             "9c7f4e26.63e738"
         ],
         "x": 1138,
-        "y": 1563
+        "y": 1563,
+        "w": 284,
+        "h": 659
     },
     {
         "id": "b84c626d445f7e79",
@@ -1674,7 +1741,9 @@
             "395a186363707d36"
         ],
         "x": 29,
-        "y": 1604
+        "y": 1604,
+        "w": 172,
+        "h": 217
     },
     {
         "id": "4fc0e38e.f27c6c",
@@ -1694,7 +1763,9 @@
             "78f9c85ee69ad834"
         ],
         "x": 29,
-        "y": 1829
+        "y": 1829,
+        "w": 172,
+        "h": 217
     },
     {
         "id": "5ae74bd6.3c8fa4",
@@ -1714,7 +1785,9 @@
             "f44b7809fdf56d7a"
         ],
         "x": 29,
-        "y": 2059
+        "y": 2059,
+        "w": 172,
+        "h": 217
     },
     {
         "id": "5343beb6.43dfe8",
@@ -1733,7 +1806,9 @@
             "6298724860689f34"
         ],
         "x": 1164,
-        "y": 1799
+        "y": 1799,
+        "w": 232,
+        "h": 187
     },
     {
         "id": "934805d3.5384a8",
@@ -1752,7 +1827,9 @@
             "60974ef99fc52976"
         ],
         "x": 1164,
-        "y": 2009
+        "y": 2009,
+        "w": 232,
+        "h": 187
     },
     {
         "id": "9c7f4e26.63e738",
@@ -1771,7 +1848,9 @@
             "35e50f0b49cb9313"
         ],
         "x": 1164,
-        "y": 1589
+        "y": 1589,
+        "w": 232,
+        "h": 187
     },
     {
         "id": "cab0b56677c8d4a6",
@@ -1876,6 +1955,34 @@
         "wires": [
             [
                 "a6cf39a1.6c59a8"
+            ]
+        ]
+    },
+    {
+        "id": "1d26b043bd39bdf8",
+        "type": "junction",
+        "z": "5e0fc4e4.528864",
+        "g": "a1de76a1.964cd",
+        "x": 550,
+        "y": 980,
+        "wires": [
+            [
+                "bd42b0349c7465b3",
+                "3592e56010d711e8"
+            ]
+        ]
+    },
+    {
+        "id": "f2ce4c4ac39e8177",
+        "type": "junction",
+        "z": "5e0fc4e4.528864",
+        "g": "55f93a50.9f446c",
+        "x": 540,
+        "y": 1365,
+        "wires": [
+            [
+                "f25549871c032016",
+                "85d82b240d5db018"
             ]
         ]
     },
@@ -3473,22 +3580,22 @@
         "rules": [
             {
                 "t": "eq",
-                "v": "14",
+                "v": "31",
                 "vt": "num"
             },
             {
                 "t": "eq",
-                "v": "6",
+                "v": "30",
                 "vt": "str"
             },
             {
                 "t": "eq",
-                "v": "7",
+                "v": "29",
                 "vt": "str"
             },
             {
                 "t": "eq",
-                "v": "18",
+                "v": "28",
                 "vt": "str"
             }
         ],
@@ -3514,6 +3621,12 @@
                 "bf80452e.12589",
                 "9bff7d3e634a475c"
             ]
+        ],
+        "outputLabels": [
+            "31 Garage Entry Stairs",
+            "30 Bed 2 Fan",
+            "29 Bed 2 Light",
+            "28 Low Voltage Relay"
         ]
     },
     {
@@ -3562,7 +3675,7 @@
             },
             {
                 "t": "eq",
-                "v": "31",
+                "v": "32",
                 "vt": "num"
             }
         ],
@@ -3603,6 +3716,16 @@
                 "ccedf52422ba5e8f",
                 "555e258961dfb057"
             ]
+        ],
+        "outputLabels": [
+            "Dead",
+            "27 M Bed Fan",
+            "49 M Bed Light",
+            "48 Island Cans",
+            "47 Dining Cans",
+            "46 Kitchen Cans",
+            "33 Range Hood Fan",
+            "32 Bath Fan"
         ]
     },
     {
@@ -3932,13 +4055,12 @@
         "bytopic": "all",
         "topic": "topic",
         "outputs": 1,
-        "x": 370,
-        "y": 1170,
+        "x": 505,
+        "y": 1150,
         "wires": [
             [
-                "8a2c8b42.d3f698",
                 "71b22309.0b273c",
-                "aff0779a7a4a8070"
+                "a7f160078b74a6a8"
             ]
         ],
         "l": false
@@ -4060,7 +4182,6 @@
             "3b15256b.faaa2a",
             "40dc2cde.ff9cdc",
             "5ff4574e.266de8",
-            "92c95a89.c59c3",
             "a247842b.97d22",
             "ce3bd359.acd66",
             "c815aadf.84acf8"
@@ -4138,34 +4259,18 @@
         "z": "5e0fc4e4.528864",
         "g": "a1de76a1.964cd",
         "name": "Write Channel",
-        "func": "var dmx = global.get(\"dmxPatch\");\nmsg.topic = 31;\n\ndmx[msg.topic].value = msg.payload;\n\nreturn msg;",
+        "func": "var dmx = global.get(\"dmxPatch\");\nmsg.topic = 32;\n\ndmx[msg.topic].value = msg.payload;\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 500,
-        "y": 1200,
+        "x": 625,
+        "y": 1150,
         "wires": [
-            [
-                "ee443b68.ce9028"
-            ]
+            []
         ],
         "l": false
-    },
-    {
-        "id": "92c95a89.c59c3",
-        "type": "link out",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "name": "8 CH Relay DMX OUT",
-        "mode": "link",
-        "links": [
-            "d8a628ca.7b2af"
-        ],
-        "x": 660,
-        "y": 1200,
-        "wires": []
     },
     {
         "id": "8e981e8e.966218",
@@ -4361,7 +4466,7 @@
         "z": "5e0fc4e4.528864",
         "g": "55f93a50.9f446c",
         "name": "",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -4476,33 +4581,6 @@
         "wires": []
     },
     {
-        "id": "ee443b68.ce9028",
-        "type": "switch",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "name": "if 0",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "0",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 570,
-        "y": 1200,
-        "wires": [
-            [
-                "92c95a89.c59c3"
-            ]
-        ],
-        "l": false
-    },
-    {
         "id": "71b22309.0b273c",
         "type": "change",
         "z": "5e0fc4e4.528864",
@@ -4522,8 +4600,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 545,
-        "y": 1165,
+        "x": 580,
+        "y": 1120,
         "wires": [
             []
         ],
@@ -4547,7 +4625,7 @@
             [
                 "71b22309.0b273c",
                 "87e8f71.5531408",
-                "aff0779a7a4a8070"
+                "1d26b043bd39bdf8"
             ]
         ],
         "l": false
@@ -4755,7 +4833,7 @@
         "transition": "instant",
         "transitionRate": 50,
         "transitionTime": 1000,
-        "name": "10.0.1.102",
+        "name": "Universe 1",
         "x": 430,
         "y": 480,
         "wires": []
@@ -4785,61 +4863,13 @@
         "g": "a1de76a1.964cd",
         "server": "2a2c6ae3b86b5493",
         "universe": "11",
-        "channel": "26",
+        "channel": "",
         "transition": "instant",
         "transitionRate": 50,
         "transitionTime": 1000,
-        "name": "26 Dead Relay",
-        "x": 565,
-        "y": 820,
-        "wires": []
-    },
-    {
-        "id": "c1c989cac3aefac2",
-        "type": "sACN",
-        "z": "5e0fc4e4.528864",
-        "g": "55f93a50.9f446c",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "29",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "29 Bed 2 Light",
-        "x": 595,
-        "y": 1395,
-        "wires": []
-    },
-    {
-        "id": "a7fb591b31e7d64d",
-        "type": "sACN",
-        "z": "5e0fc4e4.528864",
-        "g": "55f93a50.9f446c",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "29",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "30 Bed 2 Fan",
-        "x": 595,
-        "y": 1360,
-        "wires": []
-    },
-    {
-        "id": "015379671d6c6d19",
-        "type": "sACN",
-        "z": "5e0fc4e4.528864",
-        "g": "55f93a50.9f446c",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "29",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "28 Low Volt Relay",
-        "x": 605,
-        "y": 1430,
+        "name": "Universe 11",
+        "x": 650,
+        "y": 980,
         "wires": []
     },
     {
@@ -4849,13 +4879,13 @@
         "g": "55f93a50.9f446c",
         "server": "2a2c6ae3b86b5493",
         "universe": "11",
-        "channel": "31",
+        "channel": "",
         "transition": "instant",
         "transitionRate": 50,
         "transitionTime": 1000,
-        "name": "31 Garage Entry Stairs",
-        "x": 615,
-        "y": 1325,
+        "name": "Univers 11",
+        "x": 650,
+        "y": 1365,
         "wires": []
     },
     {
@@ -4880,124 +4910,12 @@
         "l": false
     },
     {
-        "id": "cad7b509094089f4",
-        "type": "sACN",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "27",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "27  M Bed Fan",
-        "x": 565,
-        "y": 860,
-        "wires": []
-    },
-    {
-        "id": "aff0779a7a4a8070",
-        "type": "sACN",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "32",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "32 Bath Fan",
-        "x": 575,
-        "y": 1130,
-        "wires": []
-    },
-    {
-        "id": "45aa8c2cecfa90c1",
-        "type": "sACN",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "49",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "49 M Bed Light",
-        "x": 565,
-        "y": 905,
-        "wires": []
-    },
-    {
-        "id": "3ec213b800b4e140",
-        "type": "sACN",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "33",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "33 Range Hood Fan",
-        "x": 580,
-        "y": 1090,
-        "wires": []
-    },
-    {
-        "id": "b4478aec3e29d8b6",
-        "type": "sACN",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "46",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "46 Kitchen Cans",
-        "x": 560,
-        "y": 1045,
-        "wires": []
-    },
-    {
-        "id": "7edde5ec9a97b50c",
-        "type": "sACN",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "48 ",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "48 Island Cans",
-        "x": 565,
-        "y": 955,
-        "wires": []
-    },
-    {
-        "id": "74ecb37c8ed17ab5",
-        "type": "sACN",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "47",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "47 Dining Cans",
-        "x": 560,
-        "y": 1000,
-        "wires": []
-    },
-    {
         "id": "ccedf52422ba5e8f",
         "type": "debug",
         "z": "5e0fc4e4.528864",
         "g": "a1de76a1.964cd",
         "name": "debug 9",
-        "active": false,
+        "active": true,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -5025,7 +4943,7 @@
         "y": 860,
         "wires": [
             [
-                "cad7b509094089f4"
+                "1d26b043bd39bdf8"
             ]
         ],
         "l": false
@@ -5047,7 +4965,7 @@
         "y": 905,
         "wires": [
             [
-                "45aa8c2cecfa90c1"
+                "1d26b043bd39bdf8"
             ]
         ],
         "l": false
@@ -5069,7 +4987,7 @@
         "y": 955,
         "wires": [
             [
-                "7edde5ec9a97b50c"
+                "1d26b043bd39bdf8"
             ]
         ],
         "l": false
@@ -5091,7 +5009,7 @@
         "y": 1000,
         "wires": [
             [
-                "74ecb37c8ed17ab5"
+                "1d26b043bd39bdf8"
             ]
         ],
         "l": false
@@ -5113,7 +5031,7 @@
         "y": 1045,
         "wires": [
             [
-                "b4478aec3e29d8b6"
+                "1d26b043bd39bdf8"
             ]
         ],
         "l": false
@@ -5135,7 +5053,7 @@
         "y": 1090,
         "wires": [
             [
-                "3ec213b800b4e140"
+                "1d26b043bd39bdf8"
             ]
         ],
         "l": false
@@ -5195,7 +5113,7 @@
         "y": 1335,
         "wires": [
             [
-                "f25549871c032016"
+                "f2ce4c4ac39e8177"
             ]
         ],
         "l": false
@@ -5217,7 +5135,7 @@
         "y": 1370,
         "wires": [
             [
-                "a7fb591b31e7d64d"
+                "f2ce4c4ac39e8177"
             ]
         ],
         "l": false
@@ -5239,7 +5157,7 @@
         "y": 1400,
         "wires": [
             [
-                "c1c989cac3aefac2"
+                "f2ce4c4ac39e8177"
             ]
         ],
         "l": false
@@ -5261,10 +5179,69 @@
         "y": 1420,
         "wires": [
             [
-                "015379671d6c6d19"
+                "f2ce4c4ac39e8177"
             ]
         ],
         "l": false
+    },
+    {
+        "id": "a7f160078b74a6a8",
+        "type": "delay",
+        "z": "5e0fc4e4.528864",
+        "g": "a1de76a1.964cd",
+        "name": "",
+        "pauseType": "rate",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "10",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": true,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 575,
+        "y": 1150,
+        "wires": [
+            [
+                "8a2c8b42.d3f698"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "3592e56010d711e8",
+        "type": "debug",
+        "z": "5e0fc4e4.528864",
+        "name": "debug 13",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 895,
+        "y": 895,
+        "wires": []
+    },
+    {
+        "id": "85d82b240d5db018",
+        "type": "debug",
+        "z": "5e0fc4e4.528864",
+        "name": "debug 14",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 895,
+        "y": 1345,
+        "wires": []
     },
     {
         "id": "cdafaf08.b4492",
@@ -7096,7 +7073,7 @@
         "height": "1",
         "passthru": false,
         "outs": "all",
-        "topic": "1",
+        "topic": "46",
         "topicType": "str",
         "min": 0,
         "max": "255",
@@ -7124,7 +7101,7 @@
         "height": "1",
         "passthru": false,
         "outs": "all",
-        "topic": "56",
+        "topic": "27",
         "topicType": "str",
         "min": 0,
         "max": "255",
@@ -7320,7 +7297,7 @@
         "height": "1",
         "passthru": false,
         "outs": "all",
-        "topic": "14",
+        "topic": "31",
         "topicType": "str",
         "min": 0,
         "max": "255",
@@ -7329,7 +7306,9 @@
         "x": 805,
         "y": 595,
         "wires": [
-            []
+            [
+                "cab0b56677c8d4a6"
+            ]
         ]
     },
     {
@@ -8382,10 +8361,10 @@
         "statepayload": true,
         "brightnessoverride": "",
         "roomhint": "Kitchen",
-        "name": "01 Can",
+        "name": "46 Can",
         "colortype": "hsv",
         "nora": "7fb41129.b4c1f",
-        "topic": "1",
+        "topic": "46",
         "onvalue": "true",
         "onvalueType": "bool",
         "offvalue": "false",
@@ -8418,10 +8397,10 @@
         "statepayload": true,
         "brightnessoverride": "",
         "roomhint": "Kitchen",
-        "name": "04 Island Cans",
+        "name": "48 Island Cans",
         "colortype": "hsv",
         "nora": "7fb41129.b4c1f",
-        "topic": "4",
+        "topic": "48",
         "onvalue": "100",
         "onvalueType": "num",
         "offvalue": "0",
@@ -8621,13 +8600,14 @@
         "commandonlycolor": false,
         "turnonwhenbrightnesschanges": true,
         "passthru": false,
+        "errorifstateunchaged": false,
         "statepayload": true,
         "brightnessoverride": "",
         "roomhint": "Kitchen",
-        "name": "11 Dining Cans",
+        "name": "47 Dining Cans",
         "colortype": "hsv",
         "nora": "7fb41129.b4c1f",
-        "topic": "11",
+        "topic": "47",
         "onvalue": "100",
         "onvalueType": "num",
         "offvalue": "0",
@@ -8636,6 +8616,7 @@
         "temperaturemax": "5500",
         "twofactor": "off",
         "twofactorpin": "",
+        "filter": false,
         "x": 550,
         "y": 985,
         "wires": [
@@ -8696,13 +8677,14 @@
         "commandonlycolor": false,
         "turnonwhenbrightnesschanges": false,
         "passthru": false,
+        "errorifstateunchaged": false,
         "statepayload": true,
         "brightnessoverride": "",
         "roomhint": "Master Bedroom",
-        "name": "03 Master Bedroom Light",
+        "name": "49 Master Bedroom Light",
         "colortype": "hsv",
         "nora": "7fb41129.b4c1f",
-        "topic": "3",
+        "topic": "49",
         "onvalue": "true",
         "onvalueType": "bool",
         "offvalue": "false",
@@ -8711,6 +8693,7 @@
         "temperaturemax": "5500",
         "twofactor": "off",
         "twofactorpin": "",
+        "filter": false,
         "x": 610,
         "y": 1110,
         "wires": [
@@ -8734,10 +8717,10 @@
         "statepayload": true,
         "brightnessoverride": "",
         "roomhint": "School Room",
-        "name": "07 Light",
+        "name": "29 Light",
         "colortype": "hsv",
         "nora": "7fb41129.b4c1f",
-        "topic": "7",
+        "topic": "29",
         "onvalue": "true",
         "onvalueType": "bool",
         "offvalue": "false",
@@ -8746,6 +8729,7 @@
         "temperaturemax": "5500",
         "twofactor": "off",
         "twofactorpin": "",
+        "filter": false,
         "x": 720,
         "y": 1275,
         "wires": [
@@ -8806,7 +8790,7 @@
         "name": "14 Light",
         "colortype": "hsv",
         "nora": "7fb41129.b4c1f",
-        "topic": "14",
+        "topic": "31",
         "onvalue": "true",
         "onvalueType": "bool",
         "offvalue": "false",
@@ -8815,6 +8799,7 @@
         "temperaturemax": "5500",
         "twofactor": "off",
         "twofactorpin": "",
+        "filter": false,
         "x": 720,
         "y": 1405,
         "wires": [
@@ -9004,11 +8989,12 @@
         "passthru": false,
         "percentcontrol": true,
         "nora": "7fb41129.b4c1f",
-        "topic": "5",
+        "topic": "33",
         "twofactor": "off",
         "twofactorpin": "",
         "language": "en",
         "speeds": [],
+        "filter": false,
         "x": 540,
         "y": 765,
         "wires": [
@@ -9024,16 +9010,17 @@
         "g": "cbdb2bc0.f0c2e8",
         "devicename": "Fan",
         "roomhint": "Bathroom",
-        "name": "",
+        "name": "32 Bath Fan",
         "passthru": false,
         "percentcontrol": true,
         "nora": "7fb41129.b4c1f",
-        "topic": "31",
+        "topic": "32",
         "twofactor": "off",
         "twofactorpin": "",
         "language": "en",
         "speeds": [],
-        "x": 715,
+        "filter": false,
+        "x": 735,
         "y": 1495,
         "wires": [
             [
@@ -9110,15 +9097,16 @@
         "g": "e01de4df.552598",
         "devicename": "Fan",
         "roomhint": "Bed 2",
-        "name": "06 Fan",
+        "name": "30 Fan",
         "passthru": false,
         "percentcontrol": true,
         "nora": "7fb41129.b4c1f",
-        "topic": "6",
+        "topic": "30",
         "twofactor": "off",
         "twofactorpin": "",
         "language": "en",
         "speeds": [],
+        "filter": false,
         "x": 720,
         "y": 1235,
         "wires": [
@@ -9176,11 +9164,11 @@
         "g": "f03313cb.0ccc3",
         "devicename": "Ceiling Fan",
         "roomhint": "Master Bedroom",
-        "name": "02 Fan",
+        "name": "27 Fan",
         "passthru": false,
         "percentcontrol": true,
         "nora": "7fb41129.b4c1f",
-        "topic": "2",
+        "topic": "27",
         "twofactor": "off",
         "twofactorpin": "",
         "language": "en",
@@ -9860,7 +9848,7 @@
         "parentService": "",
         "name": "Can Lights",
         "serviceName": "Lightbulb",
-        "topic": "1",
+        "topic": "46",
         "filter": true,
         "manufacturer": "NRCHKB",
         "model": "1.2.0",
@@ -9947,11 +9935,13 @@
         "z": "fe981873.4a8fd",
         "g": "531a278c.0f56c8",
         "isParent": true,
+        "hostType": "0",
         "bridge": "522d2d70.72648c",
+        "accessoryId": "",
         "parentService": "",
         "name": "Island Cans",
         "serviceName": "Lightbulb",
-        "topic": "4",
+        "topic": "48",
         "filter": true,
         "manufacturer": "NRCHKB",
         "model": "1.2.0",
@@ -10404,11 +10394,13 @@
         "z": "fe981873.4a8fd",
         "g": "531a278c.0f56c8",
         "isParent": true,
+        "hostType": "0",
         "bridge": "522d2d70.72648c",
+        "accessoryId": "",
         "parentService": "",
         "name": "Range Hood",
         "serviceName": "Fan",
-        "topic": "5",
+        "topic": "33",
         "filter": true,
         "manufacturer": "NRCHKB",
         "model": "1.2.0",
@@ -10566,11 +10558,13 @@
         "z": "fe981873.4a8fd",
         "g": "533e0b43.cd79e4",
         "isParent": true,
+        "hostType": "0",
         "bridge": "522d2d70.72648c",
+        "accessoryId": "",
         "parentService": "",
         "name": "Fan",
         "serviceName": "Fanv2",
-        "topic": "6",
+        "topic": "30",
         "filter": true,
         "manufacturer": "NRCHKB",
         "model": "1.2.0",
@@ -10657,11 +10651,13 @@
         "z": "fe981873.4a8fd",
         "g": "533e0b43.cd79e4",
         "isParent": true,
+        "hostType": "0",
         "bridge": "522d2d70.72648c",
+        "accessoryId": "",
         "parentService": "",
         "name": "Light",
         "serviceName": "Lightbulb",
-        "topic": "7",
+        "topic": "29",
         "filter": true,
         "manufacturer": "NRCHKB",
         "model": "1.2.0",
@@ -10859,11 +10855,13 @@
         "z": "fe981873.4a8fd",
         "g": "f6a85cf0.ee477",
         "isParent": true,
+        "hostType": "0",
         "bridge": "522d2d70.72648c",
+        "accessoryId": "",
         "parentService": "",
         "name": "Can Lights",
         "serviceName": "Lightbulb",
-        "topic": "11",
+        "topic": "47",
         "filter": true,
         "manufacturer": "NRCHKB",
         "model": "1.2.0",
@@ -10950,11 +10948,13 @@
         "z": "fe981873.4a8fd",
         "g": "9405e35e.f25e3",
         "isParent": true,
+        "hostType": "0",
         "bridge": "522d2d70.72648c",
+        "accessoryId": "",
         "parentService": "",
         "name": "Garage Entry",
         "serviceName": "Switch",
-        "topic": "14",
+        "topic": "31",
         "filter": true,
         "manufacturer": "NRCHKB",
         "model": "1.2.0",
@@ -11203,11 +11203,13 @@
         "z": "fe981873.4a8fd",
         "g": "cb5be045.a7f7a",
         "isParent": true,
+        "hostType": "0",
         "bridge": "522d2d70.72648c",
+        "accessoryId": "",
         "parentService": "",
         "name": "Fan",
         "serviceName": "Fan",
-        "topic": "2",
+        "topic": "27",
         "filter": true,
         "manufacturer": "NRCHKB",
         "model": "1.2.0",
@@ -11294,11 +11296,13 @@
         "z": "fe981873.4a8fd",
         "g": "cb5be045.a7f7a",
         "isParent": true,
+        "hostType": "0",
         "bridge": "522d2d70.72648c",
+        "accessoryId": "",
         "parentService": "",
         "name": "Light",
         "serviceName": "Lightbulb",
-        "topic": "3",
+        "topic": "49",
         "filter": true,
         "manufacturer": "NRCHKB",
         "model": "1.2.0",
@@ -12415,8 +12419,8 @@
                 "t": "set",
                 "p": "topic",
                 "pt": "msg",
-                "to": "2",
-                "tot": "num"
+                "to": "27",
+                "tot": "str"
             }
         ],
         "action": "",
@@ -12444,8 +12448,8 @@
                 "t": "set",
                 "p": "topic",
                 "pt": "msg",
-                "to": "3",
-                "tot": "num"
+                "to": "49",
+                "tot": "str"
             }
         ],
         "action": "",
@@ -12586,8 +12590,8 @@
                 "t": "set",
                 "p": "topic",
                 "pt": "msg",
-                "to": "6",
-                "tot": "num"
+                "to": "29",
+                "tot": "str"
             }
         ],
         "action": "",
@@ -12615,8 +12619,8 @@
                 "t": "set",
                 "p": "topic",
                 "pt": "msg",
-                "to": "7",
-                "tot": "num"
+                "to": "28",
+                "tot": "str"
             }
         ],
         "action": "",
@@ -12850,7 +12854,7 @@
         "z": "63cdeb60.87ee5c",
         "g": "1564242e.780d3c",
         "name": "Dining Scene",
-        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if ((dmx[54].value === 0) || (dmx[11].value === 0)){\n       dmx[54].value = 255;\n       dmx[11].value = 255;\n       dmx[38].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[54].value = 0;\n        dmx[11].value = 0;\n        dmx[38].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
+        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if ((dmx[54].value === 0) || (dmx[47].value === 0)){\n       dmx[54].value = 255;\n       dmx[47].value = 255;\n       dmx[38].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[54].value = 0;\n        dmx[47].value = 0;\n        dmx[38].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -12870,7 +12874,7 @@
         "z": "63cdeb60.87ee5c",
         "g": "1564242e.780d3c",
         "name": "Kitchen Scene",
-        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if ((dmx[1].value === 0) || (dmx[52].value === 0) || (dmx[53].value === 0) || (dmx[4].value === 0) || (dmx[57].value === 0) || (dmx[58].value === 0)){\n       dmx[1].value = 255;\n       dmx[52].value = 255;\n       dmx[53].value = 255;\n       dmx[4].value = 255;\n       dmx[57].value = 255;\n       dmx[58].value = 255;\n       dmx[37].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[1].value = 0;\n       dmx[52].value = 0;\n       dmx[53].value = 0;\n       dmx[4].value = 0;\n       dmx[57].value = 0;\n       dmx[58].value = 0;\n       dmx[37].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
+        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if ((dmx[46].value === 0) || (dmx[52].value === 0) || (dmx[53].value === 0) || (dmx[48].value === 0) || (dmx[57].value === 0) || (dmx[58].value === 0)){\n       dmx[46].value = 255;\n       dmx[52].value = 255;\n       dmx[53].value = 255;\n       dmx[48].value = 255;\n       dmx[57].value = 255;\n       dmx[58].value = 255;\n       dmx[37].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[46].value = 0;\n       dmx[52].value = 0;\n       dmx[53].value = 0;\n       dmx[48].value = 0;\n       dmx[57].value = 0;\n       dmx[58].value = 0;\n       dmx[37].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -12947,7 +12951,7 @@
         "z": "63cdeb60.87ee5c",
         "g": "1564242e.780d3c",
         "name": "Dining Scene",
-        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if ((dmx[54].value === 0) || (dmx[11].value === 0)){\n       dmx[54].value = 255;\n       dmx[11].value = 255;\n       dmx[38].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[54].value = 0;\n        dmx[11].value = 0;\n        dmx[38].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
+        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if ((dmx[54].value === 0) || (dmx[47].value === 0)){\n       dmx[54].value = 255;\n       dmx[47].value = 255;\n       dmx[38].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[54].value = 0;\n        dmx[47].value = 0;\n        dmx[38].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -12967,7 +12971,7 @@
         "z": "63cdeb60.87ee5c",
         "g": "1564242e.780d3c",
         "name": "Kitchen Scene",
-        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if ((dmx[1].value === 0) || (dmx[52].value === 0) || (dmx[53].value === 0) || (dmx[4].value === 0) || (dmx[57].value === 0) || (dmx[58].value === 0)){\n       dmx[1].value = 255;\n       dmx[52].value = 255;\n       dmx[53].value = 255;\n       dmx[4].value = 255;\n       dmx[57].value = 255;\n       dmx[58].value = 255;\n       dmx[37].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[1].value = 0;\n       dmx[52].value = 0;\n       dmx[53].value = 0;\n       dmx[4].value = 0;\n       dmx[57].value = 0;\n       dmx[58].value = 0;\n       dmx[37].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
+        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if ((dmx[46].value === 0) || (dmx[52].value === 0) || (dmx[53].value === 0) || (dmx[48].value === 0) || (dmx[57].value === 0) || (dmx[58].value === 0)){\n       dmx[46].value = 255;\n       dmx[52].value = 255;\n       dmx[53].value = 255;\n       dmx[48].value = 255;\n       dmx[57].value = 255;\n       dmx[58].value = 255;\n       dmx[37].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[46].value = 0;\n       dmx[52].value = 0;\n       dmx[53].value = 0;\n       dmx[48].value = 0;\n       dmx[57].value = 0;\n       dmx[58].value = 0;\n       dmx[37].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -12987,7 +12991,7 @@
         "z": "63cdeb60.87ee5c",
         "g": "1564242e.780d3c",
         "name": "3 way",
-        "func": "if (msg.payload === 1){\n    var thisChannel = 5;\n    var dmx=global.get(\"dmxPatch\");\n    \n    if (dmx[thisChannel].value === 0){\n       dmx[thisChannel].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[thisChannel].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
+        "func": "if (msg.payload === 1){\n    var thisChannel = \"33\";\n    var dmx=global.get(\"dmxPatch\");\n    \n    if (dmx[thisChannel].value === 0){\n       dmx[thisChannel].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[thisChannel].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -13067,7 +13071,7 @@
         "z": "63cdeb60.87ee5c",
         "g": "1564242e.780d3c",
         "name": "Kitchen Scene",
-        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if ((dmx[1].value === 0) || (dmx[52].value === 0) || (dmx[53].value === 0) || (dmx[4].value === 0) || (dmx[57].value === 0) || (dmx[58].value === 0)){\n       dmx[1].value = 255;\n       dmx[52].value = 255;\n       dmx[53].value = 255;\n       dmx[4].value = 255;\n       dmx[57].value = 255;\n       dmx[58].value = 255;\n       dmx[37].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[1].value = 0;\n       dmx[52].value = 0;\n       dmx[53].value = 0;\n       dmx[4].value = 0;\n       dmx[57].value = 0;\n       dmx[58].value = 0;\n       dmx[37].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
+        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if ((dmx[46].value === 0) || (dmx[52].value === 0) || (dmx[53].value === 0) || (dmx[48].value === 0) || (dmx[57].value === 0) || (dmx[58].value === 0)){\n       dmx[46].value = 255;\n       dmx[52].value = 255;\n       dmx[53].value = 255;\n       dmx[48].value = 255;\n       dmx[57].value = 255;\n       dmx[58].value = 255;\n       dmx[37].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[46].value = 0;\n       dmx[52].value = 0;\n       dmx[53].value = 0;\n       dmx[48].value = 0;\n       dmx[57].value = 0;\n       dmx[58].value = 0;\n       dmx[37].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -13270,8 +13274,8 @@
                 "t": "set",
                 "p": "topic",
                 "pt": "msg",
-                "to": "31",
-                "tot": "num"
+                "to": "32",
+                "tot": "str"
             },
             {
                 "t": "set",
@@ -13326,8 +13330,8 @@
                 "t": "set",
                 "p": "topic",
                 "pt": "msg",
-                "to": "31",
-                "tot": "num"
+                "to": "32",
+                "tot": "str"
             },
             {
                 "t": "set",
@@ -13496,7 +13500,7 @@
         "z": "63cdeb60.87ee5c",
         "g": "15b23181.1db8b6",
         "name": "3Way CH44",
-        "func": "if (msg.payload !== global.get(\"poolFloodLampSwithchStatus\")){\n  global.set(\"poolFloodLampSwithchStatus\", msg.payload);\n  var newValue = Math.abs(global.get(\"dmxPatch\")[44].value - 100);\n    \n    if (newValue !== global.get(\"dmxPatch\")[44].value){\n       var dmx=global.get(\"dmxPatch\");\n       dmx[44].value = newValue;\n       global.set(\"dmxPatch\",dmx);\n\n        return msg;\n    }\n}else{\n    return null;\n}",
+        "func": "if (msg.payload !== global.get(\"poolFloodLampSwithchStatus\")){\n  global.set(\"poolFloodLampSwithchStatus\", msg.payload);\n  var newValue = Math.abs(global.get(\"dmxPatch\")[31].value - 100);\n    \n    if (newValue !== global.get(\"dmxPatch\")[31].value){\n       var dmx=global.get(\"dmxPatch\");\n       dmx[31].value = newValue;\n       global.set(\"dmxPatch\",dmx);\n\n        return msg;\n    }\n}else{\n    return null;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
