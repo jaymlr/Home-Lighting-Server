@@ -56,6 +56,14 @@
         "info": ""
     },
     {
+        "id": "9f459007e3e44bbe",
+        "type": "tab",
+        "label": "Shortcuts",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
         "id": "9095f0dc.1b5f2",
         "type": "tab",
         "label": "Pool New",
@@ -124,7 +132,7 @@
         "id": "a1de76a1.964cd",
         "type": "group",
         "z": "5e0fc4e4.528864",
-        "name": "8 CH Relay Board",
+        "name": "Bath Fan Auto Off",
         "style": {
             "fill": "#c8e7a7",
             "label": true
@@ -135,78 +143,13 @@
             "87e8f71.5531408",
             "8a2c8b42.d3f698",
             "71b22309.0b273c",
-            "b9463a62.627798",
-            "bd42b0349c7465b3",
-            "54d840e09105b6f0",
-            "ccedf52422ba5e8f",
-            "0c88a19037c5e628",
-            "acbf3b35b01e7910",
-            "43209355e7c71f18",
-            "13c7a2021dd6ebdb",
-            "93bc2fba22487a2d",
-            "c2e5107e65740bc6",
-            "555e258961dfb057",
             "a7f160078b74a6a8",
-            "1d26b043bd39bdf8"
+            "49511ab308c9ba56"
         ],
-        "x": 49,
-        "y": 819,
-        "w": 697,
-        "h": 372
-    },
-    {
-        "id": "55f93a50.9f446c",
-        "type": "group",
-        "z": "5e0fc4e4.528864",
-        "name": "4 CH Relay Board",
-        "style": {
-            "stroke": "#a4a4a4",
-            "label": true,
-            "fill": "#c8e7a7"
-        },
-        "nodes": [
-            "d86e15bc.41afb",
-            "ff1456ce.1473a8",
-            "3954f8fa.ed8b",
-            "bf80452e.12589",
-            "f25549871c032016",
-            "7c191475e735ddaf",
-            "a8e7335b4eceeb2e",
-            "9bd436b2a904e221",
-            "9bff7d3e634a475c",
-            "f2ce4c4ac39e8177"
-        ],
-        "x": 49,
-        "y": 1279,
-        "w": 697,
-        "h": 187
-    },
-    {
-        "id": "d360b8ad.f6e13",
-        "type": "group",
-        "z": "5e0fc4e4.528864",
-        "name": "120V Input Relays",
-        "style": {
-            "stroke": "#000000",
-            "fill": "#d1d1d1",
-            "label": true,
-            "color": "#777777"
-        },
-        "nodes": [
-            "17b96fa6.039d88",
-            "2f274355.63355c",
-            "4d2202d5.f045dc",
-            "1775c444.822ccc",
-            "9e497835.8ca228",
-            "1e39145d.26c074",
-            "408da461.d1fdec",
-            "8f39a1ca.2308b",
-            "c4747a73.219938"
-        ],
-        "x": 54,
-        "y": 539,
-        "w": 322,
-        "h": 202
+        "x": 134,
+        "y": 459,
+        "w": 597,
+        "h": 117
     },
     {
         "id": "9197b9a2.20443",
@@ -224,8 +167,8 @@
             "85307fa4c7c83181",
             "b69f44a51f4e166e"
         ],
-        "x": 54,
-        "y": 394,
+        "x": 134,
+        "y": 309,
         "w": 492,
         "h": 127
     },
@@ -241,9 +184,7 @@
             "c749b1009e107bbc"
         ],
         "x": 109,
-        "y": 149,
-        "w": 232,
-        "h": 82
+        "y": 149
     },
     {
         "id": "18cbccf1.f61093",
@@ -306,8 +247,8 @@
             "748d11b2818c27a4",
             "b53ae83ef78be79f"
         ],
-        "x": 49,
-        "y": 1504,
+        "x": 1014,
+        "y": 34,
         "w": 647,
         "h": 462
     },
@@ -328,9 +269,7 @@
             "ab4a76b6.7c4ea8"
         ],
         "x": 99,
-        "y": 106.5,
-        "w": 252,
-        "h": 382
+        "y": 106.5
     },
     {
         "id": "ca990487.342128",
@@ -369,12 +308,11 @@
             "a10cda92.771368",
             "38687911.00f656",
             "7499f0eb.636ab",
-            "9025e275.f4092"
+            "9025e275.f4092",
+            "793d49e965c1a932"
         ],
         "x": 24,
-        "y": 984,
-        "w": 1147,
-        "h": 134
+        "y": 984
     },
     {
         "id": "fb7cb935.596eb",
@@ -391,9 +329,7 @@
             "7d8a758b.16d9ec"
         ],
         "x": 109,
-        "y": 239,
-        "w": 532,
-        "h": 127
+        "y": 239
     },
     {
         "id": "db0a79fd.67e558",
@@ -415,9 +351,7 @@
             "1b73490d.e9c2a7"
         ],
         "x": 109,
-        "y": 374,
-        "w": 532,
-        "h": 222
+        "y": 374
     },
     {
         "id": "88161784.31d3f",
@@ -445,9 +379,7 @@
             "43258bd3.a2cb54"
         ],
         "x": 94,
-        "y": 989,
-        "w": 682,
-        "h": 242
+        "y": 989
     },
     {
         "id": "eda47e71.27d188",
@@ -470,9 +402,7 @@
             "d37ba3d2.7cdeb8"
         ],
         "x": 104,
-        "y": 609,
-        "w": 812,
-        "h": 142
+        "y": 609
     },
     {
         "id": "dbfa37b6.e65a98",
@@ -795,12 +725,11 @@
             "dd5be88.c121d18",
             "15160104.365fdf",
             "3e822e83.7b4412",
-            "70b0ccc9.f0f4d4"
+            "70b0ccc9.f0f4d4",
+            "81b1a09905f2a8cd"
         ],
         "x": 394,
-        "y": 1034,
-        "w": 742,
-        "h": 162
+        "y": 1034
     },
     {
         "id": "e01de4df.552598",
@@ -820,12 +749,11 @@
             "c552ce36.4935",
             "20a44d68.e6cdb2",
             "e7ecdd45.7359f",
-            "49639483.48f75c"
+            "49639483.48f75c",
+            "08fdbe22537db0e4"
         ],
         "x": 394,
-        "y": 1194,
-        "w": 742,
-        "h": 162
+        "y": 1194
     },
     {
         "id": "a70ed36e.9949d",
@@ -845,9 +773,7 @@
             "970eed72.4ad9a"
         ],
         "x": 389,
-        "y": 1544,
-        "w": 752,
-        "h": 122
+        "y": 1544
     },
     {
         "id": "952cc7a4.ea7a98",
@@ -866,9 +792,7 @@
             "30b7af43.afffe"
         ],
         "x": 394,
-        "y": 1364,
-        "w": 747,
-        "h": 82
+        "y": 1364
     },
     {
         "id": "89c3d578.39ed38",
@@ -887,9 +811,7 @@
             "a2e7fb37.ddf7d8"
         ],
         "x": 389,
-        "y": 1824,
-        "w": 747,
-        "h": 82
+        "y": 1824
     },
     {
         "id": "5e9f0c85.8180f4",
@@ -911,9 +833,7 @@
             "c5321394.33e5e"
         ],
         "x": 389,
-        "y": 2139,
-        "w": 752,
-        "h": 82
+        "y": 2139
     },
     {
         "id": "245b49e6.eb9c06",
@@ -934,9 +854,7 @@
             "1a0b60b.b0bb39f"
         ],
         "x": 399,
-        "y": 899,
-        "w": 742,
-        "h": 127
+        "y": 899
     },
     {
         "id": "fde38eb.24a387",
@@ -958,9 +876,7 @@
             "fc2d28c9.c4b758"
         ],
         "x": 389,
-        "y": 1679,
-        "w": 752,
-        "h": 132
+        "y": 1679
     },
     {
         "id": "cbdb2bc0.f0c2e8",
@@ -976,12 +892,11 @@
         "nodes": [
             "37b0fd92.a3e102",
             "6649bb93.538bd4",
-            "c1706c4a.55dd4"
+            "c1706c4a.55dd4",
+            "648ec772c904de04"
         ],
         "x": 389,
-        "y": 1454,
-        "w": 752,
-        "h": 82
+        "y": 1454
     },
     {
         "id": "5abf5d3e.1998e4",
@@ -1011,9 +926,7 @@
             "56f4a7e0.aa4798"
         ],
         "x": 394,
-        "y": 539,
-        "w": 742,
-        "h": 357
+        "y": 539
     },
     {
         "id": "a9dec928.07f788",
@@ -1029,9 +942,7 @@
             "636a69c1.ada058"
         ],
         "x": 104,
-        "y": 764,
-        "w": 672,
-        "h": 99.5
+        "y": 764
     },
     {
         "id": "10e45efd.de6921",
@@ -1057,9 +968,7 @@
             "b578c957.365af8"
         ],
         "x": 99,
-        "y": 736.5,
-        "w": 472,
-        "h": 427
+        "y": 736.5
     },
     {
         "id": "11ec9700.a4f3c1",
@@ -1108,9 +1017,7 @@
             "50118f53.95504"
         ],
         "x": 104,
-        "y": 874,
-        "w": 672,
-        "h": 99.5
+        "y": 874
     },
     {
         "id": "15b23181.1db8b6",
@@ -1157,9 +1064,7 @@
             "7d04958dea0fe697"
         ],
         "x": 49,
-        "y": 1149,
-        "w": 797,
-        "h": 162
+        "y": 1149
     },
     {
         "id": "d06933f5f3387ed1",
@@ -1185,9 +1090,7 @@
             "531d80b1a92322d7"
         ],
         "x": 49,
-        "y": 1369,
-        "w": 797,
-        "h": 162
+        "y": 1369
     },
     {
         "id": "6342951718fffe95",
@@ -1221,9 +1124,7 @@
             "2ac212c6.2a74a6"
         ],
         "x": 34,
-        "y": 524,
-        "w": 1417,
-        "h": 367
+        "y": 524
     },
     {
         "id": "4ef308883d5daf52",
@@ -1266,9 +1167,7 @@
             "2cbcbd7fbd8035b0"
         ],
         "x": 33.5,
-        "y": 4,
-        "w": 852,
-        "h": 512
+        "y": 4
     },
     {
         "id": "a4e285991c7fcfba",
@@ -1281,7 +1180,6 @@
             "fill": "#d1d1d1"
         },
         "nodes": [
-            "e89ba395.9ab4",
             "2335b9e7.c3220e",
             "468b45ce.7f6e9c",
             "2f19e3a5.5797b4",
@@ -1291,10 +1189,12 @@
             "316bbbe3.4adc44",
             "57c75fa.fb34fa",
             "88f018a7.87e8e8",
-            "27e49a5e208929c1"
+            "27e49a5e208929c1",
+            "094dd3915c9c2fd8",
+            "c60163036e86dd01"
         ],
-        "x": 129,
-        "y": 59,
+        "x": 134,
+        "y": 29,
         "w": 667,
         "h": 257
     },
@@ -1340,9 +1240,7 @@
             "ab8612a4.f849"
         ],
         "x": 394,
-        "y": 49,
-        "w": 812,
-        "h": 202
+        "y": 49
     },
     {
         "id": "e8b2a66d107a1564",
@@ -1363,9 +1261,7 @@
             "656a6ac2.c09cf4"
         ],
         "x": 389,
-        "y": 2004,
-        "w": 732,
-        "h": 127
+        "y": 2004
     },
     {
         "id": "78616f3f9ec52e54",
@@ -1565,9 +1461,7 @@
             "7a49b53fa461f8c8"
         ],
         "x": 389,
-        "y": 1914,
-        "w": 747,
-        "h": 82
+        "y": 1914
     },
     {
         "id": "055b7d942e637826",
@@ -1597,26 +1491,6 @@
         "h": 182
     },
     {
-        "id": "38d5290d.8c37c6",
-        "type": "group",
-        "z": "63cdeb60.87ee5c",
-        "name": "Legrand 4 Button Switch LEDs",
-        "style": {
-            "stroke": "#0070c0",
-            "fill": "#bfdbef",
-            "label": true
-        },
-        "nodes": [
-            "5343beb6.43dfe8",
-            "934805d3.5384a8",
-            "9c7f4e26.63e738"
-        ],
-        "x": 1138,
-        "y": 1563,
-        "w": 284,
-        "h": 659
-    },
-    {
         "id": "b84c626d445f7e79",
         "type": "group",
         "z": "81d7285e.2e2f98",
@@ -1630,9 +1504,7 @@
             "88f509fe.dbbce8"
         ],
         "x": 559,
-        "y": 264,
-        "w": 417,
-        "h": 112
+        "y": 264
     },
     {
         "id": "1f88e28c03038d82",
@@ -1659,9 +1531,7 @@
             "be97e9c06eef3329"
         ],
         "x": 84,
-        "y": 229,
-        "w": 612,
-        "h": 342
+        "y": 229
     },
     {
         "id": "80fd2c3c061d2613",
@@ -1694,9 +1564,7 @@
             "f496be5167716a41"
         ],
         "x": 84,
-        "y": 589,
-        "w": 877,
-        "h": 522
+        "y": 589
     },
     {
         "id": "e1a19811451176a2",
@@ -1718,9 +1586,50 @@
             "6862ecac6cd9a2dd"
         ],
         "x": 89,
-        "y": 14,
-        "w": 602,
-        "h": 187
+        "y": 14
+    },
+    {
+        "id": "f57ae668afdc79b1",
+        "type": "group",
+        "z": "5e0fc4e4.528864",
+        "name": "Download channels and values in JSON",
+        "style": {
+            "stroke": "#0070c0",
+            "fill": "#bfdbef",
+            "label": true
+        },
+        "nodes": [
+            "72ba4965b3866989",
+            "3b57b1c3cb10c4d2",
+            "9d700c242642063a",
+            "4edc49a08189fa97"
+        ],
+        "x": 134,
+        "y": 599,
+        "w": 672,
+        "h": 82
+    },
+    {
+        "id": "5358904c0bf64cea",
+        "type": "group",
+        "z": "9f459007e3e44bbe",
+        "name": "GMC",
+        "style": {
+            "stroke": "#ff0000",
+            "fill": "#ffbfbf",
+            "label": true
+        },
+        "nodes": [
+            "9fe2756dc2ec1c36",
+            "d3df3df6a1ee2e4e",
+            "8725a07f26dc451a",
+            "79cc62108600ab68",
+            "84ef6f8f5ea0f7dd",
+            "d85b5b9a16ad6688",
+            "82bf2fb5e8452942"
+        ],
+        "x": 74,
+        "y": 394
     },
     {
         "id": "9ef1eb9c.6eb338",
@@ -1788,67 +1697,28 @@
         "h": 217
     },
     {
-        "id": "5343beb6.43dfe8",
+        "id": "87e5c8327bf6bf51",
         "type": "group",
         "z": "63cdeb60.87ee5c",
-        "g": "38d5290d.8c37c6",
-        "name": "Kitchen Sink Switch",
+        "name": "Legrand 4 Button Switches",
         "style": {
-            "label": true,
-            "fill": "#ffffff"
-        },
-        "nodes": [
-            "7be431e9c493f110",
-            "93ba21cb0b16ba49",
-            "c910e4fa5b9de0d4",
-            "6298724860689f34"
-        ],
-        "x": 1164,
-        "y": 1799,
-        "w": 232,
-        "h": 187
-    },
-    {
-        "id": "934805d3.5384a8",
-        "type": "group",
-        "z": "63cdeb60.87ee5c",
-        "g": "38d5290d.8c37c6",
-        "name": "Sitting Area Switch",
-        "style": {
-            "fill": "#ffffff",
+            "stroke": "#0070c0",
+            "fill": "#bfdbef",
             "label": true
         },
         "nodes": [
-            "4d5fcd2933a19e97",
-            "45d3e8220e06b602",
-            "6fd11ee2f6e2063c",
-            "60974ef99fc52976"
+            "a4d0950b.d46338",
+            "e888926191daf770",
+            "5671337343d0d390",
+            "d4804be8aef8e029",
+            "858eec41a6948fe3",
+            "98920bd18c6eeaad",
+            "af5c13db8511971a"
         ],
-        "x": 1164,
-        "y": 2009,
-        "w": 232,
-        "h": 187
-    },
-    {
-        "id": "9c7f4e26.63e738",
-        "type": "group",
-        "z": "63cdeb60.87ee5c",
-        "g": "38d5290d.8c37c6",
-        "name": "Top of Stairs Switch",
-        "style": {
-            "label": true,
-            "fill": "#ffffff"
-        },
-        "nodes": [
-            "c63865b8f254ea53",
-            "ca3542826a4bc1ee",
-            "e1ac8401f96e4021",
-            "35e50f0b49cb9313"
-        ],
-        "x": 1164,
-        "y": 1589,
-        "w": 232,
-        "h": 187
+        "x": 859,
+        "y": 1739,
+        "w": 557,
+        "h": 162
     },
     {
         "id": "cab0b56677c8d4a6",
@@ -1953,34 +1823,6 @@
         "wires": [
             [
                 "a6cf39a1.6c59a8"
-            ]
-        ]
-    },
-    {
-        "id": "1d26b043bd39bdf8",
-        "type": "junction",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "x": 550,
-        "y": 980,
-        "wires": [
-            [
-                "bd42b0349c7465b3",
-                "3592e56010d711e8"
-            ]
-        ]
-    },
-    {
-        "id": "f2ce4c4ac39e8177",
-        "type": "junction",
-        "z": "5e0fc4e4.528864",
-        "g": "55f93a50.9f446c",
-        "x": 540,
-        "y": 1365,
-        "wires": [
-            [
-                "f25549871c032016",
-                "85d82b240d5db018"
             ]
         ]
     },
@@ -2503,6 +2345,30 @@
         "port": "5568"
     },
     {
+        "id": "6ea20a3a22c2f2da",
+        "type": "myq-credentials",
+        "description": "MyQ credentials"
+    },
+    {
+        "id": "e222ff25a2775054",
+        "type": "onstar2",
+        "carname": "GMC Sierra",
+        "username": "jaymlr77@gmail.com",
+        "password": "Lernerzaq!234",
+        "pin": "4468",
+        "vin": "1GT42YE89GF240292",
+        "deviceid": "188a4bca-b25f-4e44-87a6-922e74b163ac",
+        "checkrequeststatus": "true",
+        "requestpollingtimeoutseconds": "90",
+        "requestpollingintervalseconds": "6"
+    },
+    {
+        "id": "7377ef9ba9215f46",
+        "type": "sacn-config",
+        "hostOrUniverse": "2",
+        "port": "5568"
+    },
+    {
         "id": "54870efc.1f38e8",
         "type": "function",
         "z": "3ba422b0.9c410e",
@@ -2607,7 +2473,7 @@
         "z": "1dde1153.96a027",
         "g": "fb7cb935.596eb",
         "name": "",
-        "pin": "5",
+        "pin": "26",
         "intype": "down",
         "debounce": "25",
         "read": true,
@@ -3150,6 +3016,7 @@
         "g": "eda47e71.27d188",
         "name": "flows_Home.json",
         "filename": "sudo /root/.node-red/flows_home.json",
+        "filenameType": "str",
         "format": "utf8",
         "x": 430,
         "y": 650,
@@ -3166,10 +3033,11 @@
         "g": "eda47e71.27d188",
         "name": "",
         "filename": "Latest Flows Backup JM",
+        "filenameType": "str",
         "appendNewline": false,
         "createDir": false,
         "overwriteFile": "true",
-        "x": 830,
+        "x": 880,
         "y": 650,
         "wires": [
             []
@@ -3250,10 +3118,11 @@
         "g": "eda47e71.27d188",
         "name": "",
         "filename": "Latest Cred Backup JM",
+        "filenameType": "str",
         "appendNewline": false,
         "createDir": false,
         "overwriteFile": "true",
-        "x": 830,
+        "x": 880,
         "y": 710,
         "wires": [
             []
@@ -3492,144 +3361,6 @@
         "wires": []
     },
     {
-        "id": "17b96fa6.039d88",
-        "type": "rpi-gpio in",
-        "z": "5e0fc4e4.528864",
-        "g": "d360b8ad.f6e13",
-        "name": "",
-        "pin": "17",
-        "intype": "down",
-        "debounce": "25",
-        "read": false,
-        "bcm": true,
-        "x": 140,
-        "y": 580,
-        "wires": [
-            [
-                "1e39145d.26c074"
-            ]
-        ]
-    },
-    {
-        "id": "2f274355.63355c",
-        "type": "rpi-gpio in",
-        "z": "5e0fc4e4.528864",
-        "g": "d360b8ad.f6e13",
-        "name": "",
-        "pin": "18",
-        "intype": "down",
-        "debounce": "25",
-        "read": false,
-        "bcm": true,
-        "x": 140,
-        "y": 620,
-        "wires": [
-            [
-                "408da461.d1fdec"
-            ]
-        ]
-    },
-    {
-        "id": "4d2202d5.f045dc",
-        "type": "rpi-gpio in",
-        "z": "5e0fc4e4.528864",
-        "g": "d360b8ad.f6e13",
-        "name": "",
-        "pin": "27",
-        "intype": "down",
-        "debounce": "25",
-        "read": false,
-        "bcm": true,
-        "x": 140,
-        "y": 660,
-        "wires": [
-            [
-                "8f39a1ca.2308b"
-            ]
-        ]
-    },
-    {
-        "id": "1775c444.822ccc",
-        "type": "rpi-gpio in",
-        "z": "5e0fc4e4.528864",
-        "g": "d360b8ad.f6e13",
-        "name": "",
-        "pin": "22",
-        "intype": "down",
-        "debounce": "25",
-        "read": false,
-        "bcm": true,
-        "x": 140,
-        "y": 700,
-        "wires": [
-            [
-                "c4747a73.219938"
-            ]
-        ]
-    },
-    {
-        "id": "d86e15bc.41afb",
-        "type": "switch",
-        "z": "5e0fc4e4.528864",
-        "g": "55f93a50.9f446c",
-        "name": "Topic",
-        "property": "topic",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "31",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "30",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "29",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "28",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 4,
-        "x": 295,
-        "y": 1390,
-        "wires": [
-            [
-                "bf80452e.12589",
-                "7c191475e735ddaf",
-                "1325aee51a5baa41"
-            ],
-            [
-                "bf80452e.12589",
-                "a8e7335b4eceeb2e"
-            ],
-            [
-                "bf80452e.12589",
-                "9bd436b2a904e221",
-                "dd4d1c59657c545e"
-            ],
-            [
-                "bf80452e.12589",
-                "9bff7d3e634a475c"
-            ]
-        ],
-        "outputLabels": [
-            "31 Garage Entry Stairs",
-            "30 Bed 2 Fan",
-            "29 Bed 2 Light",
-            "28 Low Voltage Relay"
-        ]
-    },
-    {
         "id": "2d95007a.50c",
         "type": "switch",
         "z": "5e0fc4e4.528864",
@@ -3640,99 +3371,23 @@
         "rules": [
             {
                 "t": "eq",
-                "v": "9999",
-                "vt": "num"
-            },
-            {
-                "t": "eq",
-                "v": "27",
+                "v": "8",
                 "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "49",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "48",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "47",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "46",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "33",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "32",
-                "vt": "num"
             }
         ],
         "checkall": "true",
         "repair": false,
-        "outputs": 8,
-        "x": 250,
-        "y": 970,
+        "outputs": 1,
+        "x": 335,
+        "y": 500,
         "wires": [
             [
-                "ccedf52422ba5e8f"
-            ],
-            [
-                "ccedf52422ba5e8f",
-                "0c88a19037c5e628",
-                "75de349a91de1adc"
-            ],
-            [
-                "ccedf52422ba5e8f",
-                "acbf3b35b01e7910",
-                "46bc23b2cc38c1c6"
-            ],
-            [
-                "ccedf52422ba5e8f",
-                "43209355e7c71f18",
-                "0df9c5e844bb609b"
-            ],
-            [
-                "ccedf52422ba5e8f",
-                "13c7a2021dd6ebdb",
-                "880d4bd13602faca"
-            ],
-            [
-                "ccedf52422ba5e8f",
-                "93bc2fba22487a2d",
-                "a95e32f55dd744df"
-            ],
-            [
-                "ccedf52422ba5e8f",
-                "c2e5107e65740bc6",
-                "71e91c3cba08be23"
-            ],
-            [
-                "ccedf52422ba5e8f",
-                "555e258961dfb057",
-                "034a0c9655c0f385"
+                "49511ab308c9ba56",
+                "71b22309.0b273c"
             ]
         ],
         "outputLabels": [
-            "Dead",
-            "27 M Bed Fan",
-            "49 M Bed Light",
-            "48 Island Cans",
-            "47 Dining Cans",
-            "46 Kitchen Cans",
-            "33 Range Hood Fan",
-            "32 Bath Fan"
+            "8 Bath Fan"
         ]
     },
     {
@@ -3742,10 +3397,10 @@
         "g": "a1de76a1.964cd",
         "name": "8 CH Relay Board",
         "links": [
-            "914526fc.ec37d"
+            "c60163036e86dd01"
         ],
-        "x": 90,
-        "y": 970,
+        "x": 175,
+        "y": 500,
         "wires": [
             [
                 "2d95007a.50c"
@@ -3763,11 +3418,11 @@
             "1d00441c.b4cf64",
             "b19973ff.b21a28",
             "5873bbcd.d05e84",
-            "914526fc.ec37d",
-            "4b27fea8.1a775"
+            "4b27fea8.1a775",
+            "c60163036e86dd01"
         ],
-        "x": 95,
-        "y": 480,
+        "x": 175,
+        "y": 395,
         "wires": [
             [
                 "f60308d7.dcb58",
@@ -3777,142 +3432,14 @@
         ]
     },
     {
-        "id": "9e497835.8ca228",
-        "type": "link out",
-        "z": "5e0fc4e4.528864",
-        "g": "d360b8ad.f6e13",
-        "name": "Input Relays 120V",
-        "mode": "link",
-        "links": [],
-        "x": 335,
-        "y": 645,
-        "wires": []
-    },
-    {
-        "id": "1e39145d.26c074",
-        "type": "change",
-        "z": "5e0fc4e4.528864",
-        "g": "d360b8ad.f6e13",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Topic",
-                "pt": "msg",
-                "to": "Input Relay 1",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 235,
-        "y": 580,
-        "wires": [
-            [
-                "9e497835.8ca228"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "408da461.d1fdec",
-        "type": "change",
-        "z": "5e0fc4e4.528864",
-        "g": "d360b8ad.f6e13",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Topic",
-                "pt": "msg",
-                "to": "Input Relay 2",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 235,
-        "y": 620,
-        "wires": [
-            [
-                "9e497835.8ca228"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "8f39a1ca.2308b",
-        "type": "change",
-        "z": "5e0fc4e4.528864",
-        "g": "d360b8ad.f6e13",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Topic",
-                "pt": "msg",
-                "to": "Input Relay 3",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 235,
-        "y": 660,
-        "wires": [
-            [
-                "9e497835.8ca228"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "c4747a73.219938",
-        "type": "change",
-        "z": "5e0fc4e4.528864",
-        "g": "d360b8ad.f6e13",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Topic",
-                "pt": "msg",
-                "to": "Input Relay 4",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 235,
-        "y": 700,
-        "wires": [
-            [
-                "9e497835.8ca228"
-            ]
-        ],
-        "l": false
-    },
-    {
         "id": "f60308d7.dcb58",
         "type": "link out",
         "z": "5e0fc4e4.528864",
         "g": "9197b9a2.20443",
         "name": "Dimmer Status",
         "links": [],
-        "x": 180,
-        "y": 435,
+        "x": 260,
+        "y": 350,
         "wires": []
     },
     {
@@ -3928,8 +3455,8 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 430,
-        "y": 440,
+        "x": 510,
+        "y": 355,
         "wires": []
     },
     {
@@ -3947,8 +3474,8 @@
         "correl": "",
         "expiry": "",
         "broker": "168a34a1.219543",
-        "x": 560,
-        "y": 1640,
+        "x": 1525,
+        "y": 170,
         "wires": []
     },
     {
@@ -3966,8 +3493,8 @@
         "correl": "",
         "expiry": "",
         "broker": "168a34a1.219543",
-        "x": 550,
-        "y": 1590,
+        "x": 1515,
+        "y": 120,
         "wires": []
     },
     {
@@ -4013,8 +3540,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 6,
-        "x": 300,
-        "y": 1645,
+        "x": 1265,
+        "y": 175,
         "wires": [
             [
                 "d96b3018.74f4c8",
@@ -4042,11 +3569,11 @@
         "g": "f12dcaa8.49dc4",
         "name": "Shellys",
         "links": [
-            "914526fc.ec37d",
-            "cbff91a0d15605f6"
+            "cbff91a0d15605f6",
+            "c60163036e86dd01"
         ],
-        "x": 90,
-        "y": 1715,
+        "x": 1055,
+        "y": 245,
         "wires": [
             [
                 "a11a6e22.6dafe",
@@ -4072,54 +3599,14 @@
         "bytopic": "all",
         "topic": "topic",
         "outputs": 1,
-        "x": 505,
-        "y": 1150,
+        "x": 550,
+        "y": 500,
         "wires": [
             [
-                "71b22309.0b273c",
                 "a7f160078b74a6a8"
             ]
         ],
         "l": false
-    },
-    {
-        "id": "ff1456ce.1473a8",
-        "type": "function",
-        "z": "5e0fc4e4.528864",
-        "g": "55f93a50.9f446c",
-        "name": "Non Dim",
-        "func": "var dmx = msg.payload;\n\nif ((dmx === 0) || (dmx === \"off\")) {\n    msg.payload = 0;\n}\nelse {\n    msg.payload = 255;\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 165,
-        "y": 1425,
-        "wires": [
-            [
-                "d86e15bc.41afb"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "e89ba395.9ab4",
-        "type": "debug",
-        "z": "5e0fc4e4.528864",
-        "g": "a4e285991c7fcfba",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 530,
-        "y": 135,
-        "wires": []
     },
     {
         "id": "2335b9e7.c3220e",
@@ -4133,16 +3620,15 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 280,
-        "y": 150,
+        "x": 285,
+        "y": 120,
         "wires": [
             [
-                "e89ba395.9ab4",
                 "468b45ce.7f6e9c",
                 "1613907b.9544c",
                 "57c75fa.fb34fa",
-                "c4951c37fdd81b57",
-                "914526fc.ec37d"
+                "094dd3915c9c2fd8",
+                "c60163036e86dd01"
             ]
         ]
     },
@@ -4164,8 +3650,8 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 465,
-        "y": 175,
+        "x": 470,
+        "y": 145,
         "wires": [
             [
                 "2f19e3a5.5797b4"
@@ -4183,8 +3669,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 665,
-        "y": 175,
+        "x": 670,
+        "y": 145,
         "wires": []
     },
     {
@@ -4203,8 +3689,8 @@
             "ce3bd359.acd66",
             "c815aadf.84acf8"
         ],
-        "x": 170,
-        "y": 155,
+        "x": 175,
+        "y": 125,
         "wires": [
             [
                 "2335b9e7.c3220e"
@@ -4216,21 +3702,18 @@
         "type": "link out",
         "z": "5e0fc4e4.528864",
         "g": "a4e285991c7fcfba",
-        "name": "New DMX Values",
+        "name": "Change Occured",
         "mode": "link",
         "links": [
             "30108cf1.c0f694",
-            "382468fc.f74b88",
             "3954f8fa.ed8b",
             "a4d0950b.d46338",
             "bd36079.8c9b8f8",
-            "d0878873.cc5f",
-            "d8cc4cc5.a7af4",
             "e0fef8ed.461c28",
             "eaf814b9.d4c2c8"
         ],
-        "x": 465,
-        "y": 100,
+        "x": 470,
+        "y": 70,
         "wires": []
     },
     {
@@ -4244,8 +3727,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 215,
-        "y": 1645,
+        "x": 1180,
+        "y": 175,
         "wires": [
             [
                 "e3cfba6.bd62dc8"
@@ -4254,36 +3737,19 @@
         "l": false
     },
     {
-        "id": "3954f8fa.ed8b",
-        "type": "link in",
-        "z": "5e0fc4e4.528864",
-        "g": "55f93a50.9f446c",
-        "name": "4 CH Relay Board",
-        "links": [
-            "914526fc.ec37d"
-        ],
-        "x": 90,
-        "y": 1390,
-        "wires": [
-            [
-                "d86e15bc.41afb"
-            ]
-        ]
-    },
-    {
         "id": "8a2c8b42.d3f698",
         "type": "function",
         "z": "5e0fc4e4.528864",
         "g": "a1de76a1.964cd",
         "name": "Write Channel",
-        "func": "var dmx = global.get(\"dmxPatch\");\nmsg.topic = 32;\n\ndmx[msg.topic].value = msg.payload;\n\nreturn msg;",
+        "func": "var dmx = global.get(\"dmxPatch\");\nmsg.topic = 8;\n\ndmx[msg.topic].value = msg.payload;\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 625,
-        "y": 1150,
+        "x": 690,
+        "y": 500,
         "wires": [
             []
         ],
@@ -4299,8 +3765,8 @@
         "qos": "",
         "retain": "",
         "broker": "168a34a1.219543",
-        "x": 580,
-        "y": 1780,
+        "x": 1545,
+        "y": 310,
         "wires": []
     },
     {
@@ -4314,8 +3780,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 425,
-        "y": 1780,
+        "x": 1390,
+        "y": 310,
         "wires": [
             [
                 "8e981e8e.966218"
@@ -4351,8 +3817,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 3,
-        "x": 300,
-        "y": 1780,
+        "x": 1265,
+        "y": 310,
         "wires": [
             [
                 "c9f255a4.31c9c8",
@@ -4379,8 +3845,8 @@
         "correl": "",
         "expiry": "",
         "broker": "168a34a1.219543",
-        "x": 560,
-        "y": 1545,
+        "x": 1525,
+        "y": 75,
         "wires": []
     },
     {
@@ -4411,8 +3877,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 3,
-        "x": 455,
-        "y": 225,
+        "x": 460,
+        "y": 195,
         "wires": [
             [
                 "316bbbe3.4adc44"
@@ -4438,8 +3904,8 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 595,
-        "y": 225,
+        "x": 600,
+        "y": 195,
         "wires": []
     },
     {
@@ -4452,8 +3918,8 @@
         "qos": "",
         "retain": "",
         "broker": "168a34a1.219543",
-        "x": 560,
-        "y": 1725,
+        "x": 1525,
+        "y": 255,
         "wires": []
     },
     {
@@ -4467,31 +3933,14 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 425,
-        "y": 1725,
+        "x": 1390,
+        "y": 255,
         "wires": [
             [
                 "335cbd21.3c1aba"
             ]
         ],
         "l": false
-    },
-    {
-        "id": "bf80452e.12589",
-        "type": "debug",
-        "z": "5e0fc4e4.528864",
-        "g": "55f93a50.9f446c",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 340,
-        "y": 1320,
-        "wires": []
     },
     {
         "id": "a2a3d677.c62aa8",
@@ -4506,8 +3955,8 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 310,
-        "y": 1575,
+        "x": 1275,
+        "y": 105,
         "wires": []
     },
     {
@@ -4530,8 +3979,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 485,
-        "y": 275,
+        "x": 490,
+        "y": 245,
         "wires": [
             [
                 "88f018a7.87e8e8"
@@ -4553,8 +4002,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 680,
-        "y": 275,
+        "x": 685,
+        "y": 245,
         "wires": []
     },
     {
@@ -4577,33 +4026,10 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 580,
-        "y": 1120,
+        "x": 430,
+        "y": 535,
         "wires": [
             []
-        ],
-        "l": false
-    },
-    {
-        "id": "b9463a62.627798",
-        "type": "function",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "name": "Non Dim",
-        "func": "var dmx = msg.payload;\n\nif (dmx === 0) {\n    msg.payload = 0;\n}\nelse {\n    msg.payload = 255;\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 455,
-        "y": 1130,
-        "wires": [
-            [
-                "71b22309.0b273c",
-                "87e8f71.5531408",
-                "1d26b043bd39bdf8"
-            ]
         ],
         "l": false
     },
@@ -4622,33 +4048,15 @@
         "correl": "",
         "expiry": "",
         "broker": "168a34a1.219543",
-        "x": 580,
-        "y": 1685,
+        "x": 1545,
+        "y": 215,
         "wires": []
-    },
-    {
-        "id": "6235d0f450fd0752",
-        "type": "function",
-        "z": "5e0fc4e4.528864",
-        "name": "Global Read",
-        "func": "var dmx = global.get(\"dmxPatch\");\n/*var output = [];\n\nfor (var i = 0; i < dmx.length; i++){\n    output.splice(dmx[i].address, 0, dmx[i].value);\n}\n\nnode.warn(output);\n*/\n\nfor (var x = 0; x < dmx.length; x++){\n    var retVal = {};\n    retVal.topic = dmx[x].address;\n    retVal.payload = dmx[x].value;\n    retVal.channel = x;\n    node.send(retVal);\n    /*if (dmx[x].value != dmx[x].historical){\n        node.send(retVal);\n    }*/\n}\nnode.done();\n\nreturn null;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1010,
-        "y": 520,
-        "wires": [
-            [
-                "9e0bccd88c2304d5"
-            ]
-        ]
     },
     {
         "id": "72ba4965b3866989",
         "type": "inject",
         "z": "5e0fc4e4.528864",
+        "g": "f57ae668afdc79b1",
         "name": "",
         "props": [
             {
@@ -4666,29 +4074,12 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 810,
-        "y": 500,
+        "x": 240,
+        "y": 640,
         "wires": [
             [
-                "6235d0f450fd0752"
+                "9d700c242642063a"
             ]
-        ]
-    },
-    {
-        "id": "9e0bccd88c2304d5",
-        "type": "file",
-        "z": "5e0fc4e4.528864",
-        "name": "",
-        "filename": "/home/pi/Documents/DMX snapshot",
-        "filenameType": "str",
-        "appendNewline": true,
-        "createDir": false,
-        "overwriteFile": "false",
-        "encoding": "none",
-        "x": 1280,
-        "y": 505,
-        "wires": [
-            []
         ]
     },
     {
@@ -4709,8 +4100,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 310,
-        "y": 480,
+        "x": 390,
+        "y": 395,
         "wires": [
             [
                 "b69f44a51f4e166e"
@@ -4733,8 +4124,8 @@
         "correl": "",
         "expiry": "",
         "broker": "168a34a1.219543",
-        "x": 565,
-        "y": 1880,
+        "x": 1530,
+        "y": 410,
         "wires": []
     },
     {
@@ -4768,8 +4159,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 430,
-        "y": 1880,
+        "x": 1395,
+        "y": 410,
         "wires": [
             [
                 "6396cb56c5dd9631"
@@ -4791,8 +4182,8 @@
         "rap": true,
         "rh": 0,
         "inputs": 0,
-        "x": 155,
-        "y": 1925,
+        "x": 1120,
+        "y": 455,
         "wires": [
             [
                 "a2a3d677.c62aa8"
@@ -4811,8 +4202,8 @@
         "transitionRate": 50,
         "transitionTime": 1000,
         "name": "Universe 1",
-        "x": 430,
-        "y": 480,
+        "x": 515,
+        "y": 395,
         "wires": []
     },
     {
@@ -4827,339 +4218,11 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 260,
-        "y": 195,
+        "x": 265,
+        "y": 165,
         "wires": [
             []
         ]
-    },
-    {
-        "id": "bd42b0349c7465b3",
-        "type": "sACN",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "Universe 11",
-        "x": 650,
-        "y": 980,
-        "wires": []
-    },
-    {
-        "id": "f25549871c032016",
-        "type": "sACN",
-        "z": "5e0fc4e4.528864",
-        "g": "55f93a50.9f446c",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "Univers 11",
-        "x": 650,
-        "y": 1365,
-        "wires": []
-    },
-    {
-        "id": "54d840e09105b6f0",
-        "type": "function",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "name": "Non Dim",
-        "func": "var dmx = msg.payload;\n\nif ((dmx === 0) || (dmx === \"off\")) {\n    msg.payload = 0;\n}\nelse {\n    msg.payload = 255;\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 150,
-        "y": 1015,
-        "wires": [
-            [
-                "2d95007a.50c"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "ccedf52422ba5e8f",
-        "type": "debug",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "name": "debug 9",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 295,
-        "y": 1065,
-        "wires": []
-    },
-    {
-        "id": "0c88a19037c5e628",
-        "type": "rbe",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 440,
-        "y": 860,
-        "wires": [
-            [
-                "1d26b043bd39bdf8"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "acbf3b35b01e7910",
-        "type": "rbe",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 440,
-        "y": 905,
-        "wires": [
-            [
-                "1d26b043bd39bdf8"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "43209355e7c71f18",
-        "type": "rbe",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 440,
-        "y": 955,
-        "wires": [
-            [
-                "1d26b043bd39bdf8"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "13c7a2021dd6ebdb",
-        "type": "rbe",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 440,
-        "y": 1000,
-        "wires": [
-            [
-                "1d26b043bd39bdf8"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "93bc2fba22487a2d",
-        "type": "rbe",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 440,
-        "y": 1045,
-        "wires": [
-            [
-                "1d26b043bd39bdf8"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "c2e5107e65740bc6",
-        "type": "rbe",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 440,
-        "y": 1090,
-        "wires": [
-            [
-                "1d26b043bd39bdf8"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "555e258961dfb057",
-        "type": "rbe",
-        "z": "5e0fc4e4.528864",
-        "g": "a1de76a1.964cd",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 405,
-        "y": 1130,
-        "wires": [
-            [
-                "b9463a62.627798"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "c4951c37fdd81b57",
-        "type": "debug",
-        "z": "5e0fc4e4.528864",
-        "name": "debug 11",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 895,
-        "y": 180,
-        "wires": []
-    },
-    {
-        "id": "7c191475e735ddaf",
-        "type": "rbe",
-        "z": "5e0fc4e4.528864",
-        "g": "55f93a50.9f446c",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 465,
-        "y": 1335,
-        "wires": [
-            [
-                "f2ce4c4ac39e8177"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "a8e7335b4eceeb2e",
-        "type": "rbe",
-        "z": "5e0fc4e4.528864",
-        "g": "55f93a50.9f446c",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 430,
-        "y": 1370,
-        "wires": [
-            [
-                "f2ce4c4ac39e8177"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "9bd436b2a904e221",
-        "type": "rbe",
-        "z": "5e0fc4e4.528864",
-        "g": "55f93a50.9f446c",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 465,
-        "y": 1400,
-        "wires": [
-            [
-                "f2ce4c4ac39e8177"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "9bff7d3e634a475c",
-        "type": "rbe",
-        "z": "5e0fc4e4.528864",
-        "g": "55f93a50.9f446c",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 430,
-        "y": 1420,
-        "wires": [
-            [
-                "f2ce4c4ac39e8177"
-            ]
-        ],
-        "l": false
     },
     {
         "id": "a7f160078b74a6a8",
@@ -5179,8 +4242,8 @@
         "drop": true,
         "allowrate": false,
         "outputs": 1,
-        "x": 575,
-        "y": 1150,
+        "x": 625,
+        "y": 500,
         "wires": [
             [
                 "8a2c8b42.d3f698"
@@ -5189,185 +4252,118 @@
         "l": false
     },
     {
-        "id": "3592e56010d711e8",
-        "type": "debug",
+        "id": "3b57b1c3cb10c4d2",
+        "type": "downloadfile",
         "z": "5e0fc4e4.528864",
-        "name": "debug 13",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 680,
-        "y": 700,
+        "g": "f57ae668afdc79b1",
+        "name": "",
+        "filename": "",
+        "encoding": "hex",
+        "x": 710,
+        "y": 640,
         "wires": []
     },
     {
-        "id": "85d82b240d5db018",
-        "type": "debug",
+        "id": "9d700c242642063a",
+        "type": "function",
         "z": "5e0fc4e4.528864",
-        "name": "debug 14",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 895,
-        "y": 1345,
+        "g": "f57ae668afdc79b1",
+        "name": "Global Read",
+        "func": "var dmx = global.get(\"dmxPatch\");\nvar output = [];\n\nfor (var i = 0; i < dmx.length; i++) {\n    output.splice(dmx[i].address, 0, dmx[i].value);\n}\n\nnode.warn(output); //not a warning. Here to give current status \n\nfor (var x = 0; x < dmx.length; x++) {\n    var retVal = {};\n    retVal.topic = dmx[x].address.toString(); // Convert topic to string\n    retVal.payload = dmx[x].value;\n    retVal.channel = x;\n    node.send(retVal);\n}\n\nnode.done();\n\nreturn null;\n\n\n\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 640,
+        "wires": [
+            [
+                "4edc49a08189fa97"
+            ]
+        ]
+    },
+    {
+        "id": "4edc49a08189fa97",
+        "type": "join",
+        "z": "5e0fc4e4.528864",
+        "g": "f57ae668afdc79b1",
+        "name": "",
+        "mode": "custom",
+        "build": "string",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": false,
+        "timeout": "2",
+        "count": "",
+        "reduceRight": false,
+        "reduceExp": "",
+        "reduceInit": "",
+        "reduceInitType": "",
+        "reduceFixup": "",
+        "x": 555,
+        "y": 640,
+        "wires": [
+            [
+                "3b57b1c3cb10c4d2"
+            ]
+        ]
+    },
+    {
+        "id": "094dd3915c9c2fd8",
+        "type": "delay",
+        "z": "5e0fc4e4.528864",
+        "g": "a4e285991c7fcfba",
+        "name": "Limit 1 Per 2 Sec",
+        "pauseType": "rate",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "2",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": true,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 420,
+        "y": 70,
+        "wires": [
+            [
+                "914526fc.ec37d"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "c60163036e86dd01",
+        "type": "link out",
+        "z": "5e0fc4e4.528864",
+        "g": "a4e285991c7fcfba",
+        "name": "New DMX Values",
+        "mode": "link",
+        "links": [
+            "d8cc4cc5.a7af4",
+            "382468fc.f74b88",
+            "d0878873.cc5f"
+        ],
+        "x": 460,
+        "y": 110,
         "wires": []
     },
     {
-        "id": "2e64a5f24fa59cf9",
-        "type": "rpi-gpio out",
-        "z": "5e0fc4e4.528864",
-        "name": "Pin 3",
-        "pin": "2",
-        "set": "",
-        "level": "0",
-        "freq": "",
-        "out": "out",
-        "bcm": true,
-        "x": 1070,
-        "y": 900,
-        "wires": []
-    },
-    {
-        "id": "f8efe6d23883740f",
-        "type": "rpi-gpio out",
-        "z": "5e0fc4e4.528864",
-        "name": "Pin 5",
-        "pin": "3",
-        "set": "",
-        "level": "0",
-        "freq": "",
-        "out": "out",
-        "bcm": true,
-        "x": 1070,
-        "y": 940,
-        "wires": []
-    },
-    {
-        "id": "a71e7d3d26fdf68d",
-        "type": "rpi-gpio out",
-        "z": "5e0fc4e4.528864",
-        "name": "Pin 8",
-        "pin": "14",
-        "set": "",
-        "level": "0",
-        "freq": "",
-        "out": "out",
-        "bcm": true,
-        "x": 1070,
-        "y": 980,
-        "wires": []
-    },
-    {
-        "id": "bfd3e71b064a4f6e",
-        "type": "rpi-gpio out",
-        "z": "5e0fc4e4.528864",
-        "name": "Pin 10",
-        "pin": "15",
-        "set": "",
-        "level": "0",
-        "freq": "",
-        "out": "out",
-        "bcm": true,
-        "x": 1070,
-        "y": 1020,
-        "wires": []
-    },
-    {
-        "id": "c6034fc94c472a70",
-        "type": "rpi-gpio out",
-        "z": "5e0fc4e4.528864",
-        "name": "Pin 12",
-        "pin": "18",
-        "set": "",
-        "level": "0",
-        "freq": "",
-        "out": "out",
-        "bcm": true,
-        "x": 1070,
-        "y": 1060,
-        "wires": []
-    },
-    {
-        "id": "50143de4cb03a5fc",
-        "type": "rpi-gpio out",
-        "z": "5e0fc4e4.528864",
-        "name": "Pin 19",
-        "pin": "10",
-        "set": "",
-        "level": "0",
-        "freq": "",
-        "out": "out",
-        "bcm": true,
-        "x": 1070,
-        "y": 1100,
-        "wires": []
-    },
-    {
-        "id": "9be0c126d7924774",
-        "type": "rpi-gpio out",
-        "z": "5e0fc4e4.528864",
-        "name": "Pin 24",
-        "pin": "8",
-        "set": "",
-        "level": "0",
-        "freq": "",
-        "out": "out",
-        "bcm": true,
-        "x": 1070,
-        "y": 1140,
-        "wires": []
-    },
-    {
-        "id": "80faaf67d14ed037",
-        "type": "rpi-gpio out",
-        "z": "5e0fc4e4.528864",
-        "name": "Pin 26",
-        "pin": "7",
-        "set": "",
-        "level": "0",
-        "freq": "",
-        "out": "out",
-        "bcm": true,
-        "x": 1070,
-        "y": 1220,
-        "wires": []
-    },
-    {
-        "id": "4b21c7cb3b8c3352",
-        "type": "rpi-gpio out",
-        "z": "5e0fc4e4.528864",
-        "name": "Pin 29",
-        "pin": "5",
-        "set": "",
-        "level": "0",
-        "freq": "",
-        "out": "out",
-        "bcm": true,
-        "x": 1070,
-        "y": 1260,
-        "wires": []
-    },
-    {
-        "id": "75de349a91de1adc",
+        "id": "49511ab308c9ba56",
         "type": "switch",
         "z": "5e0fc4e4.528864",
+        "g": "a1de76a1.964cd",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
         "rules": [
-            {
-                "t": "eq",
-                "v": "0",
-                "vt": "num"
-            },
             {
                 "t": "neq",
                 "v": "0",
@@ -5376,539 +4372,12 @@
         ],
         "checkall": "true",
         "repair": false,
-        "outputs": 2,
-        "x": 915,
-        "y": 900,
+        "outputs": 1,
+        "x": 430,
+        "y": 500,
         "wires": [
             [
-                "2e64a5f24fa59cf9"
-            ],
-            [
-                "106d4ac6be351d0d"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "106d4ac6be351d0d",
-        "type": "change",
-        "z": "5e0fc4e4.528864",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "1",
-                "tot": "num"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 975,
-        "y": 900,
-        "wires": [
-            [
-                "2e64a5f24fa59cf9"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "46bc23b2cc38c1c6",
-        "type": "switch",
-        "z": "5e0fc4e4.528864",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "0",
-                "vt": "num"
-            },
-            {
-                "t": "neq",
-                "v": "0",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 915,
-        "y": 940,
-        "wires": [
-            [
-                "f8efe6d23883740f"
-            ],
-            [
-                "b4512a8ac6bf5722"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "b4512a8ac6bf5722",
-        "type": "change",
-        "z": "5e0fc4e4.528864",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "1",
-                "tot": "num"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 975,
-        "y": 940,
-        "wires": [
-            [
-                "f8efe6d23883740f"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "0df9c5e844bb609b",
-        "type": "switch",
-        "z": "5e0fc4e4.528864",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "0",
-                "vt": "num"
-            },
-            {
-                "t": "neq",
-                "v": "0",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 915,
-        "y": 980,
-        "wires": [
-            [
-                "a71e7d3d26fdf68d"
-            ],
-            [
-                "d0e720ad225bc719"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "d0e720ad225bc719",
-        "type": "change",
-        "z": "5e0fc4e4.528864",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "1",
-                "tot": "num"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 975,
-        "y": 980,
-        "wires": [
-            [
-                "a71e7d3d26fdf68d"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "880d4bd13602faca",
-        "type": "switch",
-        "z": "5e0fc4e4.528864",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "0",
-                "vt": "num"
-            },
-            {
-                "t": "neq",
-                "v": "0",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 915,
-        "y": 1020,
-        "wires": [
-            [
-                "bfd3e71b064a4f6e"
-            ],
-            [
-                "ae110887919b46f0"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "ae110887919b46f0",
-        "type": "change",
-        "z": "5e0fc4e4.528864",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "1",
-                "tot": "num"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 975,
-        "y": 1020,
-        "wires": [
-            [
-                "bfd3e71b064a4f6e"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "a95e32f55dd744df",
-        "type": "switch",
-        "z": "5e0fc4e4.528864",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "0",
-                "vt": "num"
-            },
-            {
-                "t": "neq",
-                "v": "0",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 915,
-        "y": 1060,
-        "wires": [
-            [
-                "c6034fc94c472a70"
-            ],
-            [
-                "4b63d87ba7342812"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "4b63d87ba7342812",
-        "type": "change",
-        "z": "5e0fc4e4.528864",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "1",
-                "tot": "num"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 975,
-        "y": 1060,
-        "wires": [
-            [
-                "c6034fc94c472a70"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "71e91c3cba08be23",
-        "type": "switch",
-        "z": "5e0fc4e4.528864",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "0",
-                "vt": "num"
-            },
-            {
-                "t": "neq",
-                "v": "0",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 915,
-        "y": 1100,
-        "wires": [
-            [
-                "50143de4cb03a5fc"
-            ],
-            [
-                "44cae074865a4d22"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "44cae074865a4d22",
-        "type": "change",
-        "z": "5e0fc4e4.528864",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "1",
-                "tot": "num"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 975,
-        "y": 1100,
-        "wires": [
-            [
-                "50143de4cb03a5fc"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "034a0c9655c0f385",
-        "type": "switch",
-        "z": "5e0fc4e4.528864",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "0",
-                "vt": "num"
-            },
-            {
-                "t": "neq",
-                "v": "0",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 915,
-        "y": 1140,
-        "wires": [
-            [
-                "9be0c126d7924774"
-            ],
-            [
-                "9daf1e637505c8c5"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "9daf1e637505c8c5",
-        "type": "change",
-        "z": "5e0fc4e4.528864",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "1",
-                "tot": "num"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 975,
-        "y": 1140,
-        "wires": [
-            [
-                "9be0c126d7924774"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "1325aee51a5baa41",
-        "type": "switch",
-        "z": "5e0fc4e4.528864",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "0",
-                "vt": "num"
-            },
-            {
-                "t": "neq",
-                "v": "0",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 915,
-        "y": 1220,
-        "wires": [
-            [
-                "80faaf67d14ed037"
-            ],
-            [
-                "9fc75759be15c54e"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "9fc75759be15c54e",
-        "type": "change",
-        "z": "5e0fc4e4.528864",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "1",
-                "tot": "num"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 975,
-        "y": 1220,
-        "wires": [
-            [
-                "80faaf67d14ed037"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "dd4d1c59657c545e",
-        "type": "switch",
-        "z": "5e0fc4e4.528864",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "0",
-                "vt": "num"
-            },
-            {
-                "t": "neq",
-                "v": "0",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 915,
-        "y": 1260,
-        "wires": [
-            [
-                "4b21c7cb3b8c3352"
-            ],
-            [
-                "4a152786a8409f1c"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "4a152786a8409f1c",
-        "type": "change",
-        "z": "5e0fc4e4.528864",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "1",
-                "tot": "num"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 975,
-        "y": 1260,
-        "wires": [
-            [
-                "4b21c7cb3b8c3352"
+                "87e8f71.5531408"
             ]
         ],
         "l": false
@@ -6319,7 +4788,7 @@
             },
             {
                 "t": "cont",
-                "v": "Reset",
+                "v": "Restarted",
                 "vt": "str"
             },
             {
@@ -6344,7 +4813,9 @@
                 "4d40655a.650eec",
                 "38733fcc.624078"
             ],
-            [],
+            [
+                "4d40655a.650eec"
+            ],
             [
                 "38733fcc.624078",
                 "4d40655a.650eec"
@@ -6445,9 +4916,12 @@
         "z": "358e6df7.8463e2",
         "g": "6886b642.21d75",
         "name": "Add Label",
-        "func": "var oldMsg = msg;\n\n//var timestamp = new Date();\n\n//var timestamp = 0;\nmsg.payload = \"Home WAN Address\" + \": \" + msg.payload;\n\nreturn msg;",
+        "func": "var oldMsg = msg;\n\n//var timestamp = new Date();\n\n//var timestamp = 0;\nmsg.payload = \"New Home WAN Address\" + \": \" + msg.payload + \" IP Has Changed\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
         "x": 935,
         "y": 1025,
         "wires": [
@@ -6542,7 +5016,8 @@
         "y": 1056.5,
         "wires": [
             [
-                "9025e275.f4092"
+                "9025e275.f4092",
+                "793d49e965c1a932"
             ],
             []
         ]
@@ -7485,6 +5960,23 @@
         ]
     },
     {
+        "id": "793d49e965c1a932",
+        "type": "debug",
+        "z": "358e6df7.8463e2",
+        "g": "6886b642.21d75",
+        "name": "debug 17",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 780,
+        "y": 1085,
+        "wires": []
+    },
+    {
         "id": "3e8fb709.54ebe8",
         "type": "inject",
         "z": "25725757.33897",
@@ -7775,7 +6267,7 @@
         "height": "1",
         "passthru": false,
         "outs": "all",
-        "topic": "46",
+        "topic": "51",
         "topicType": "str",
         "min": 0,
         "max": "255",
@@ -7803,7 +6295,7 @@
         "height": "1",
         "passthru": false,
         "outs": "all",
-        "topic": "27",
+        "topic": "3",
         "topicType": "str",
         "min": 0,
         "max": "255",
@@ -7999,7 +6491,7 @@
         "height": "1",
         "passthru": false,
         "outs": "all",
-        "topic": "31",
+        "topic": "9",
         "topicType": "str",
         "min": 0,
         "max": "255",
@@ -8042,7 +6534,6 @@
         "mode": "link",
         "links": [
             "30108cf1.c0f694",
-            "a4d0950b.d46338",
             "bd36079.8c9b8f8",
             "ce131ea07cad232b",
             "d8a628ca.7b2af"
@@ -8056,15 +6547,15 @@
         "type": "cast-to-client",
         "z": "81d7285e.2e2f98",
         "g": "876be6f3f4de2bb4",
-        "name": "Dining Room GH Mini",
+        "name": "Kitchen Hub Max",
         "url": "",
         "contentType": "",
         "message": "",
         "language": "en",
-        "ip": "10.0.1.241",
+        "ip": "10.0.1.76",
         "port": "8009",
         "volume": "70",
-        "x": 870,
+        "x": 860,
         "y": 130,
         "wires": [
             [
@@ -8082,7 +6573,7 @@
         "contentType": "",
         "message": "",
         "language": "en",
-        "ip": "10.0.1.111",
+        "ip": "10.0.1.18",
         "port": "8009",
         "volume": "70",
         "x": 870,
@@ -8133,7 +6624,9 @@
         "wires": [
             [
                 "26c678d7.1fe9f8",
-                "89bc08cd.a9b958"
+                "89bc08cd.a9b958",
+                "c332a4e3.746db8",
+                "f9e52626.65eb18"
             ]
         ]
     },
@@ -8164,7 +6657,7 @@
         "z": "81d7285e.2e2f98",
         "g": "876be6f3f4de2bb4",
         "name": "",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -8272,7 +6765,7 @@
         "contentType": "",
         "message": "",
         "language": "en",
-        "ip": "10.0.1.243",
+        "ip": "10.0.1.85",
         "port": "8009",
         "volume": "70",
         "x": 870,
@@ -8435,7 +6928,9 @@
             [],
             [],
             [],
-            [],
+            [
+                "49aedabb.aa5eb4"
+            ],
             [
                 "1ff9cbdf.eaa184"
             ]
@@ -9063,10 +7558,10 @@
         "statepayload": true,
         "brightnessoverride": "",
         "roomhint": "Kitchen",
-        "name": "46 Can",
+        "name": "6 Can",
         "colortype": "hsv",
         "nora": "7fb41129.b4c1f",
-        "topic": "46",
+        "topic": "6",
         "onvalue": "true",
         "onvalueType": "bool",
         "offvalue": "false",
@@ -9076,7 +7571,7 @@
         "twofactor": "off",
         "twofactorpin": "",
         "filter": false,
-        "x": 525,
+        "x": 515,
         "y": 580,
         "wires": [
             [
@@ -9099,10 +7594,10 @@
         "statepayload": true,
         "brightnessoverride": "",
         "roomhint": "Kitchen",
-        "name": "48 Island Cans",
+        "name": "4 Island Cans",
         "colortype": "hsv",
         "nora": "7fb41129.b4c1f",
-        "topic": "48",
+        "topic": "4",
         "onvalue": "100",
         "onvalueType": "num",
         "offvalue": "0",
@@ -9306,10 +7801,10 @@
         "statepayload": true,
         "brightnessoverride": "",
         "roomhint": "Kitchen",
-        "name": "47 Dining Cans",
+        "name": "5 Dining Cans",
         "colortype": "hsv",
         "nora": "7fb41129.b4c1f",
-        "topic": "47",
+        "topic": "5",
         "onvalue": "100",
         "onvalueType": "num",
         "offvalue": "0",
@@ -9383,10 +7878,10 @@
         "statepayload": true,
         "brightnessoverride": "",
         "roomhint": "Master Bedroom",
-        "name": "49 Master Bedroom Light",
+        "name": "3 Master Bedroom Light",
         "colortype": "hsv",
         "nora": "7fb41129.b4c1f",
-        "topic": "49",
+        "topic": "3",
         "onvalue": "true",
         "onvalueType": "bool",
         "offvalue": "false",
@@ -9395,7 +7890,7 @@
         "temperaturemax": "5500",
         "twofactor": "off",
         "twofactorpin": "",
-        "filter": false,
+        "filter": true,
         "x": 610,
         "y": 1110,
         "wires": [
@@ -9419,10 +7914,10 @@
         "statepayload": true,
         "brightnessoverride": "",
         "roomhint": "School Room",
-        "name": "29 Light",
+        "name": "11 Light",
         "colortype": "hsv",
         "nora": "7fb41129.b4c1f",
-        "topic": "29",
+        "topic": "11",
         "onvalue": "true",
         "onvalueType": "bool",
         "offvalue": "false",
@@ -9489,10 +7984,10 @@
         "statepayload": true,
         "brightnessoverride": "",
         "roomhint": "Garage Entry",
-        "name": "14 Light",
+        "name": "9 Light",
         "colortype": "hsv",
         "nora": "7fb41129.b4c1f",
-        "topic": "31",
+        "topic": "9",
         "onvalue": "true",
         "onvalueType": "bool",
         "offvalue": "false",
@@ -9502,7 +7997,7 @@
         "twofactor": "off",
         "twofactorpin": "",
         "filter": false,
-        "x": 720,
+        "x": 710,
         "y": 1405,
         "wires": [
             [
@@ -9689,17 +8184,17 @@
         "g": "5abf5d3e.1998e4",
         "devicename": "Range Hood",
         "roomhint": "Kitchen",
-        "name": "",
+        "name": "7 Range Hood",
         "passthru": false,
         "percentcontrol": true,
         "nora": "7fb41129.b4c1f",
-        "topic": "33",
+        "topic": "7",
         "twofactor": "off",
         "twofactorpin": "",
         "language": "en",
         "speeds": [],
         "filter": false,
-        "x": 540,
+        "x": 550,
         "y": 765,
         "wires": [
             [
@@ -9714,11 +8209,11 @@
         "g": "cbdb2bc0.f0c2e8",
         "devicename": "Fan",
         "roomhint": "Bathroom",
-        "name": "32 Bath Fan",
+        "name": "8 Bath Fan",
         "passthru": false,
         "percentcontrol": true,
         "nora": "7fb41129.b4c1f",
-        "topic": "32",
+        "topic": "8",
         "twofactor": "off",
         "twofactorpin": "",
         "language": "en",
@@ -9747,7 +8242,7 @@
         "y": 1495,
         "wires": [
             [
-                "6649bb93.538bd4"
+                "648ec772c904de04"
             ]
         ],
         "l": false
@@ -9763,8 +8258,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 860,
-        "y": 1265,
+        "x": 855,
+        "y": 1285,
         "wires": [
             [
                 "e7ecdd45.7359f"
@@ -9801,21 +8296,21 @@
         "g": "e01de4df.552598",
         "devicename": "Fan",
         "roomhint": "Bed 2",
-        "name": "30 Fan",
+        "name": "10 Fan",
         "passthru": false,
         "percentcontrol": true,
         "nora": "7fb41129.b4c1f",
-        "topic": "30",
+        "topic": "10",
         "twofactor": "off",
         "twofactorpin": "",
         "language": "en",
         "speeds": [],
-        "filter": false,
+        "filter": true,
         "x": 720,
         "y": 1235,
         "wires": [
             [
-                "20a44d68.e6cdb2"
+                "08fdbe22537db0e4"
             ]
         ]
     },
@@ -9831,7 +8326,7 @@
         "initialize": "",
         "finalize": "",
         "x": 850,
-        "y": 1100,
+        "y": 1120,
         "wires": [
             [
                 "70b0ccc9.f0f4d4"
@@ -9866,23 +8361,23 @@
         "type": "noraf-fan",
         "z": "81d7285e.2e2f98",
         "g": "f03313cb.0ccc3",
-        "devicename": "Ceiling Fan",
+        "devicename": "Fan",
         "roomhint": "Master Bedroom",
-        "name": "27 Fan",
+        "name": "2 Mstr Bed Fan",
         "passthru": false,
         "percentcontrol": true,
         "nora": "7fb41129.b4c1f",
-        "topic": "27",
+        "topic": "2",
         "twofactor": "off",
         "twofactorpin": "",
         "language": "en",
         "speeds": [],
-        "filter": false,
-        "x": 565,
+        "filter": true,
+        "x": 595,
         "y": 1075,
         "wires": [
             [
-                "3e822e83.7b4412"
+                "81b1a09905f2a8cd"
             ]
         ]
     },
@@ -9913,6 +8408,7 @@
         "temperaturemax": "5500",
         "twofactor": "off",
         "twofactorpin": "",
+        "filter": true,
         "x": 580,
         "y": 1155,
         "wires": [
@@ -10466,6 +8962,70 @@
                 "c5321394.33e5e"
             ]
         ]
+    },
+    {
+        "id": "648ec772c904de04",
+        "type": "range",
+        "z": "81d7285e.2e2f98",
+        "g": "cbdb2bc0.f0c2e8",
+        "minin": "0",
+        "maxin": "100",
+        "minout": "0",
+        "maxout": "255",
+        "action": "scale",
+        "round": true,
+        "property": "payload",
+        "name": "",
+        "x": 905,
+        "y": 1495,
+        "wires": [
+            [
+                "6649bb93.538bd4"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "08fdbe22537db0e4",
+        "type": "function",
+        "z": "81d7285e.2e2f98",
+        "g": "e01de4df.552598",
+        "name": "Off at 0",
+        "func": "msg.payload = msg.payload.on ? msg.payload.speed : 0;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 855,
+        "y": 1250,
+        "wires": [
+            [
+                "e7ecdd45.7359f"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "81b1a09905f2a8cd",
+        "type": "function",
+        "z": "81d7285e.2e2f98",
+        "g": "f03313cb.0ccc3",
+        "name": "Off at 0",
+        "func": "msg.payload = msg.payload.on ? msg.payload.speed : 0;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 850,
+        "y": 1080,
+        "wires": [
+            [
+                "70b0ccc9.f0f4d4"
+            ]
+        ],
+        "l": false
     },
     {
         "id": "3798ddbe.bee222",
@@ -12762,8 +11322,8 @@
         "type": "function",
         "z": "63cdeb60.87ee5c",
         "g": "ca990487.342128",
-        "name": "3Way CH31",
-        "func": "if (msg.payload !== global.get(\"garageEntrySwithchStatus\")){\n  global.set(\"garageEntrySwithchStatus\", msg.payload);\n  var newValue = Math.abs(global.get(\"dmxPatch\")[31].value - 255);\n    \n    if (newValue !== global.get(\"dmxPatch\")[31].value){\n       var dmx=global.get(\"dmxPatch\");\n       dmx[31].value = newValue;\n       global.set(\"dmxPatch\",dmx);\n\n        return msg;\n    }\n}else{\n    return null;\n}",
+        "name": "3Way CH09",
+        "func": "if (msg.payload !== global.get(\"garageEntrySwithchStatus\")){\n  global.set(\"garageEntrySwithchStatus\", msg.payload);\n  var newValue = Math.abs(global.get(\"dmxPatch\")[9].value - 255);\n    \n    if (newValue !== global.get(\"dmxPatch\")[9].value){\n       var dmx=global.get(\"dmxPatch\");\n       dmx[9].value = newValue;\n       global.set(\"dmxPatch\",dmx);\n\n        return msg;\n    }\n}else{\n    return null;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -12846,6 +11406,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 500,
         "y": 495,
         "wires": [
@@ -12986,10 +11547,10 @@
         "z": "63cdeb60.87ee5c",
         "g": "fe313a3b.21f39",
         "name": "Bedroom 2 Switch",
-        "pin": "23",
+        "pin": "17",
         "intype": "down",
         "debounce": "25",
-        "read": false,
+        "read": true,
         "bcm": true,
         "x": 180,
         "y": 1190,
@@ -13005,10 +11566,10 @@
         "z": "63cdeb60.87ee5c",
         "g": "bb2f78b8.c72478",
         "name": "Master Bedroom Switch",
-        "pin": "24",
+        "pin": "4",
         "intype": "down",
         "debounce": "25",
-        "read": false,
+        "read": true,
         "bcm": true,
         "x": 190,
         "y": 995,
@@ -13023,7 +11584,7 @@
         "type": "change",
         "z": "63cdeb60.87ee5c",
         "g": "bb2f78b8.c72478",
-        "name": "1 to 100",
+        "name": "1 to 255",
         "rules": [
             {
                 "t": "change",
@@ -13031,7 +11592,7 @@
                 "pt": "msg",
                 "from": "1",
                 "fromt": "num",
-                "to": "175",
+                "to": "255",
                 "tot": "num"
             }
         ],
@@ -13133,7 +11694,7 @@
                 "t": "set",
                 "p": "topic",
                 "pt": "msg",
-                "to": "27",
+                "to": "2",
                 "tot": "str"
             }
         ],
@@ -13162,7 +11723,7 @@
                 "t": "set",
                 "p": "topic",
                 "pt": "msg",
-                "to": "49",
+                "to": "3",
                 "tot": "str"
             }
         ],
@@ -13205,7 +11766,7 @@
         "type": "change",
         "z": "63cdeb60.87ee5c",
         "g": "fe313a3b.21f39",
-        "name": "1 to 100",
+        "name": "1 to 255",
         "rules": [
             {
                 "t": "change",
@@ -13304,7 +11865,7 @@
                 "t": "set",
                 "p": "topic",
                 "pt": "msg",
-                "to": "29",
+                "to": "10",
                 "tot": "str"
             }
         ],
@@ -13333,7 +11894,7 @@
                 "t": "set",
                 "p": "topic",
                 "pt": "msg",
-                "to": "29",
+                "to": "11",
                 "tot": "str"
             }
         ],
@@ -13371,178 +11932,19 @@
         ]
     },
     {
-        "id": "cc4c376c.cd6918",
-        "type": "function",
-        "z": "63cdeb60.87ee5c",
-        "name": "Read DMX",
-        "func": "var dmx = global.get(\"dmxPatch\");\nvar output = [];\nvar index = 0;\n\nfor (var i=0; i<60; i++){\n    output[index] = {\"payload\": dmx[i].value === 0 ? false : true};\n    index += 1;\n}\n\nreturn output;",
-        "outputs": 61,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 935,
-        "y": 1965,
-        "wires": [
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [
-                "56e1681c71b76a55"
-            ],
-            [],
-            [
-                "d37b16fd70992cf2"
-            ],
-            [],
-            [],
-            [],
-            [
-                "cdbf3a9105729ee1"
-            ],
-            [
-                "ca3542826a4bc1ee",
-                "62612b7c3579738a"
-            ],
-            [
-                "93d182af94bf486e"
-            ],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [
-                "33257317081cd9a4"
-            ],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [
-                "72e36dd6aec804e7"
-            ],
-            [],
-            [],
-            [],
-            [],
-            [
-                "cd93bdab214afb39"
-            ],
-            [
-                "c231f2204ef594b0"
-            ],
-            [],
-            []
-        ],
-        "outputLabels": [
-            "0",
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9",
-            "10",
-            "11",
-            "12",
-            "13",
-            "14",
-            "15",
-            "16",
-            "17",
-            "18",
-            "19",
-            "20",
-            "21",
-            "22",
-            "23",
-            "24",
-            "25",
-            "26",
-            "27",
-            "28",
-            "29",
-            "30",
-            "31",
-            "32",
-            "33",
-            "34",
-            "35",
-            "36",
-            "37",
-            "38",
-            "39",
-            "40",
-            "41",
-            "42",
-            "43",
-            "44",
-            "45",
-            "46",
-            "47",
-            "48",
-            "49",
-            "50",
-            "51",
-            "52",
-            "53",
-            "54",
-            "55",
-            "56",
-            "57",
-            "58",
-            "59",
-            "60"
-        ]
-    },
-    {
         "id": "a4d0950b.d46338",
         "type": "link in",
         "z": "63cdeb60.87ee5c",
+        "g": "87e5c8327bf6bf51",
         "name": "To Switch LEDs",
         "links": [
-            "914526fc.ec37d",
-            "3b15256b.faaa2a"
+            "914526fc.ec37d"
         ],
-        "x": 760,
-        "y": 1965,
+        "x": 900,
+        "y": 1820,
         "wires": [
             [
-                "cc4c376c.cd6918"
+                "5671337343d0d390"
             ]
         ]
     },
@@ -13568,7 +11970,7 @@
         "z": "63cdeb60.87ee5c",
         "g": "1564242e.780d3c",
         "name": "Dining Scene",
-        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if ((dmx[54].value === 0) || (dmx[47].value === 0)){\n       dmx[54].value = 255;\n       dmx[47].value = 255;\n       dmx[38].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[54].value = 0;\n        dmx[47].value = 0;\n        dmx[38].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
+        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if ((dmx[54].value === 0) || (dmx[5].value === 0)){\n       dmx[54].value = 255;\n       dmx[5].value = 255;\n       dmx[38].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[54].value = 0;\n        dmx[5].value = 0;\n        dmx[38].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -13588,7 +11990,7 @@
         "z": "63cdeb60.87ee5c",
         "g": "1564242e.780d3c",
         "name": "Kitchen Scene",
-        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if ((dmx[46].value === 0) || (dmx[52].value === 0) || (dmx[53].value === 0) || (dmx[48].value === 0) || (dmx[57].value === 0) || (dmx[58].value === 0)){\n       dmx[46].value = 255;\n       dmx[52].value = 255;\n       dmx[53].value = 255;\n       dmx[48].value = 255;\n       dmx[57].value = 255;\n       dmx[58].value = 255;\n       dmx[37].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[46].value = 0;\n       dmx[52].value = 0;\n       dmx[53].value = 0;\n       dmx[48].value = 0;\n       dmx[57].value = 0;\n       dmx[58].value = 0;\n       dmx[37].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
+        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if ((dmx[6].value === 0) || (dmx[52].value === 0) || (dmx[53].value === 0) || (dmx[4].value === 0) || (dmx[57].value === 0) || (dmx[58].value === 0)){\n       dmx[6].value = 255;\n       dmx[52].value = 255;\n       dmx[53].value = 255;\n       dmx[4].value = 255;\n       dmx[57].value = 255;\n       dmx[58].value = 255;\n       dmx[37].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[6].value = 0;\n       dmx[52].value = 0;\n       dmx[53].value = 0;\n       dmx[4].value = 0;\n       dmx[57].value = 0;\n       dmx[58].value = 0;\n       dmx[37].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -13608,7 +12010,7 @@
         "z": "63cdeb60.87ee5c",
         "g": "1564242e.780d3c",
         "name": "Nite Lite Scene",
-        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if (dmx[58].value === 50){\n       dmx[48].value = 0;\n       dmx[52].value = 0;\n       dmx[53].value = 0;\n       dmx[47].value = 0;\n       dmx[57].value = 0;\n       dmx[58].value = 0;\n       dmx[51].value = 0;\n       dmx[46].value = 0;\n       dmx[54].value = 0;\n       dmx[60].value = 0;\n       dmx[33].value = 0;\n       dmx[37].value = 0;\n       dmx[38].value = 0;\n       dmx[39].value = 0;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 0;\n       return msg;\n    }   \n    else{\n       dmx[48].value = 0;\n       dmx[52].value = 0;\n       dmx[53].value = 0;\n       dmx[47].value = 0;\n       dmx[57].value = 0;\n       dmx[58].value = 50;\n       dmx[51].value = 0;\n       dmx[46].value = 0;\n       dmx[54].value = 0;\n       dmx[60].value = 0;\n       dmx[33].value = 0;\n       dmx[37].value = 0;\n       dmx[38].value = 0;\n       dmx[39].value = 100;\n        global.set(\"dmxPatch\",dmx);\n        msg.payload = 1;\n        return msg;\n    }\n}else{\n    return null;\n}",
+        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if (dmx[58].value === 50){\n       dmx[6].value = 0;\n       dmx[52].value = 0;\n       dmx[53].value = 0;\n       dmx[4].value = 0;\n       dmx[57].value = 0;\n       dmx[58].value = 0;\n       dmx[51].value = 0;\n       dmx[5].value = 0;\n       dmx[54].value = 0;\n       dmx[60].value = 0;\n       dmx[9].value = 0;\n       dmx[37].value = 0;\n       dmx[38].value = 0;\n       dmx[39].value = 0;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 0;\n       return msg;\n    }   \n    else{\n       dmx[6].value = 0;\n       dmx[52].value = 0;\n       dmx[53].value = 0;\n       dmx[4].value = 0;\n       dmx[57].value = 0;\n       dmx[58].value = 50;\n       dmx[51].value = 0;\n       dmx[5].value = 0;\n       dmx[54].value = 0;\n       dmx[60].value = 0;\n       dmx[9].value = 0;\n       dmx[37].value = 0;\n       dmx[38].value = 0;\n       dmx[39].value = 100;\n        global.set(\"dmxPatch\",dmx);\n        msg.payload = 1;\n        return msg;\n    }\n}else{\n    return null;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -13666,7 +12068,7 @@
         "z": "63cdeb60.87ee5c",
         "g": "1564242e.780d3c",
         "name": "Dining Scene",
-        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if ((dmx[54].value === 0) || (dmx[47].value === 0)){\n       dmx[54].value = 255;\n       dmx[47].value = 255;\n       dmx[38].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[54].value = 0;\n        dmx[47].value = 0;\n        dmx[38].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
+        "func": "if (msg.payload === 1) {\n    var dmx = global.get(\"dmxPatch\");\n\n    if ((dmx[54].value === 0) || (dmx[5].value === 0)) {\n        dmx[54].value = 255;\n        dmx[5].value = 255;\n        dmx[38].value = 255;\n        global.set(\"dmxPatch\", dmx);\n        msg.payload = 1;\n        return msg;\n    }\n    else {\n        dmx[54].value = 0;\n        dmx[5].value = 0;\n        dmx[38].value = 0;\n        global.set(\"dmxPatch\", dmx);\n\n        msg.payload = 0;\n        return msg;\n    }\n} else {\n    return null;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -13686,7 +12088,7 @@
         "z": "63cdeb60.87ee5c",
         "g": "1564242e.780d3c",
         "name": "Kitchen Scene",
-        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if ((dmx[46].value === 0) || (dmx[52].value === 0) || (dmx[53].value === 0) || (dmx[48].value === 0) || (dmx[57].value === 0) || (dmx[58].value === 0)){\n       dmx[46].value = 255;\n       dmx[52].value = 255;\n       dmx[53].value = 255;\n       dmx[48].value = 255;\n       dmx[57].value = 255;\n       dmx[58].value = 255;\n       dmx[37].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[46].value = 0;\n       dmx[52].value = 0;\n       dmx[53].value = 0;\n       dmx[48].value = 0;\n       dmx[57].value = 0;\n       dmx[58].value = 0;\n       dmx[37].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
+        "func": "if (msg.payload === 1) {\n    var dmx = global.get(\"dmxPatch\");\n\n    if ((dmx[6].value === 0) || (dmx[52].value === 0) || (dmx[53].value === 0) || (dmx[4].value === 0) || (dmx[57].value === 0) || (dmx[58].value === 0)) {\n        dmx[6].value = 255;\n        dmx[52].value = 255;\n        dmx[53].value = 255;\n        dmx[4].value = 255;\n        dmx[57].value = 255;\n        dmx[58].value = 255;\n        dmx[37].value = 255;\n        global.set(\"dmxPatch\", dmx);\n        msg.payload = 1;\n        return msg;\n    }\n    else {\n        dmx[6].value = 0;\n        dmx[52].value = 0;\n        dmx[53].value = 0;\n        dmx[4].value = 0;\n        dmx[57].value = 0;\n        dmx[58].value = 0;\n        dmx[37].value = 0;\n        global.set(\"dmxPatch\", dmx);\n\n        msg.payload = 0;\n        return msg;\n    }\n} else {\n    return null;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -13706,7 +12108,7 @@
         "z": "63cdeb60.87ee5c",
         "g": "1564242e.780d3c",
         "name": "3 way",
-        "func": "if (msg.payload === 1){\n    var thisChannel = \"33\";\n    var dmx=global.get(\"dmxPatch\");\n    \n    if (dmx[thisChannel].value === 0){\n       dmx[thisChannel].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[thisChannel].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
+        "func": "if (msg.payload === 1){\n    var thisChannel = \"5\";\n    var dmx=global.get(\"dmxPatch\");\n    \n    if (dmx[thisChannel].value === 0){\n       dmx[thisChannel].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[thisChannel].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -13726,7 +12128,7 @@
         "z": "63cdeb60.87ee5c",
         "g": "1564242e.780d3c",
         "name": "3 way",
-        "func": "if (msg.payload === 1){\n    var thisChannel = 46;\n    var dmx=global.get(\"dmxPatch\");\n    \n    if (dmx[thisChannel].value === 0){\n       dmx[thisChannel].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[thisChannel].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
+        "func": "if (msg.payload === 1){\n    var thisChannel = 6;\n    var dmx=global.get(\"dmxPatch\");\n    \n    if (dmx[thisChannel].value === 0){\n       dmx[thisChannel].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[thisChannel].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -13746,7 +12148,7 @@
         "z": "63cdeb60.87ee5c",
         "g": "1564242e.780d3c",
         "name": "3 way",
-        "func": "if (msg.payload === 1){\n    var thisChannel = 31;\n    var dmx=global.get(\"dmxPatch\");\n    \n    if (dmx[thisChannel].value === 0){\n       dmx[thisChannel].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[thisChannel].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
+        "func": "if (msg.payload === 1){\n    var thisChannel = 9;\n    var dmx=global.get(\"dmxPatch\");\n    \n    if (dmx[thisChannel].value === 0){\n       dmx[thisChannel].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[thisChannel].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -13786,7 +12188,7 @@
         "z": "63cdeb60.87ee5c",
         "g": "1564242e.780d3c",
         "name": "Kitchen Scene",
-        "func": "if (msg.payload === 1){\n    var dmx=global.get(\"dmxPatch\");\n    \n    if ((dmx[46].value === 0) || (dmx[52].value === 0) || (dmx[53].value === 0) || (dmx[48].value === 0) || (dmx[57].value === 0) || (dmx[58].value === 0)){\n       dmx[46].value = 255;\n       dmx[52].value = 255;\n       dmx[53].value = 255;\n       dmx[48].value = 255;\n       dmx[57].value = 255;\n       dmx[58].value = 255;\n       dmx[37].value = 255;\n       dmx[42].value = 255;\n       global.set(\"dmxPatch\",dmx);\n       msg.payload = 1;\n       return msg;\n    }   \n    else{\n        dmx[46].value = 0;\n       dmx[52].value = 0;\n       dmx[53].value = 0;\n       dmx[48].value = 0;\n       dmx[57].value = 0;\n       dmx[58].value = 0;\n       dmx[37].value = 0;\n       dmx[42].value = 0;\n        global.set(\"dmxPatch\",dmx);\n    \n        msg.payload = 0;\n        return msg;\n    }\n}else{\n    return null;\n}",
+        "func": "if (msg.payload === 1) {\n    var dmx = global.get(\"dmxPatch\");\n\n    if ((dmx[6].value === 0) || (dmx[52].value === 0) || (dmx[53].value === 0) || (dmx[4].value === 0) || (dmx[57].value === 0) || (dmx[58].value === 0)) {\n        dmx[6].value = 255;\n        dmx[52].value = 255;\n        dmx[53].value = 255;\n        dmx[4].value = 255;\n        dmx[57].value = 255;\n        dmx[58].value = 255;\n        dmx[37].value = 255;\n        global.set(\"dmxPatch\", dmx);\n        msg.payload = 1;\n        return msg;\n    }\n    else {\n        dmx[6].value = 0;\n        dmx[52].value = 0;\n        dmx[53].value = 0;\n        dmx[4].value = 0;\n        dmx[57].value = 0;\n        dmx[58].value = 0;\n        dmx[37].value = 0;\n        global.set(\"dmxPatch\", dmx);\n\n        msg.payload = 0;\n        return msg;\n    }\n} else {\n    return null;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -13950,7 +12352,7 @@
                 "t": "set",
                 "p": "topic",
                 "pt": "msg",
-                "to": "32",
+                "to": "8",
                 "tot": "str"
             },
             {
@@ -14005,14 +12407,14 @@
                 "t": "set",
                 "p": "topic",
                 "pt": "msg",
-                "to": "32",
+                "to": "8",
                 "tot": "str"
             },
             {
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "100",
+                "to": "255",
                 "tot": "num"
             }
         ],
@@ -14228,38 +12630,6 @@
             ]
         ],
         "l": false
-    },
-    {
-        "id": "3f322663.e16982",
-        "type": "rpi-gpio in",
-        "z": "63cdeb60.87ee5c",
-        "name": "",
-        "pin": "17",
-        "intype": "down",
-        "debounce": "25",
-        "read": false,
-        "bcm": true,
-        "x": 140,
-        "y": 1500,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "c957a0d7.2a9298",
-        "type": "rpi-gpio in",
-        "z": "63cdeb60.87ee5c",
-        "name": "",
-        "pin": "27",
-        "intype": "down",
-        "debounce": "25",
-        "read": false,
-        "bcm": true,
-        "x": 140,
-        "y": 1545,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "461bd0df.a382f8",
@@ -14635,7 +13005,7 @@
         "z": "63cdeb60.87ee5c",
         "g": "055b7d942e637826",
         "name": "",
-        "active": false,
+        "active": true,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -14652,7 +13022,7 @@
         "z": "63cdeb60.87ee5c",
         "g": "055b7d942e637826",
         "name": "",
-        "active": false,
+        "active": true,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -14777,31 +13147,15 @@
         ]
     },
     {
-        "id": "dec0b3db473c4aa7",
-        "type": "debug",
-        "z": "63cdeb60.87ee5c",
-        "name": "debug 8",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 310,
-        "y": 1570,
-        "wires": []
-    },
-    {
         "id": "5ad0e8c0e1d71467",
         "type": "rpi-gpio in",
         "z": "63cdeb60.87ee5c",
         "g": "9ef1eb9c.6eb338",
         "name": "",
-        "pin": "9",
+        "pin": "18",
         "intype": "down",
         "debounce": "25",
-        "read": false,
+        "read": true,
         "bcm": true,
         "x": 115,
         "y": 1645,
@@ -14817,10 +13171,10 @@
         "z": "63cdeb60.87ee5c",
         "g": "9ef1eb9c.6eb338",
         "name": "",
-        "pin": "25",
+        "pin": "27",
         "intype": "down",
         "debounce": "25",
-        "read": false,
+        "read": true,
         "bcm": true,
         "x": 115,
         "y": 1690,
@@ -14836,10 +13190,10 @@
         "z": "63cdeb60.87ee5c",
         "g": "9ef1eb9c.6eb338",
         "name": "",
-        "pin": "11",
+        "pin": "22",
         "intype": "down",
         "debounce": "25",
-        "read": false,
+        "read": true,
         "bcm": true,
         "x": 115,
         "y": 1735,
@@ -14855,10 +13209,10 @@
         "z": "63cdeb60.87ee5c",
         "g": "4fc0e38e.f27c6c",
         "name": "",
-        "pin": "6",
+        "pin": "24",
         "intype": "down",
         "debounce": "25",
-        "read": false,
+        "read": true,
         "bcm": true,
         "x": 115,
         "y": 1870,
@@ -14874,10 +13228,10 @@
         "z": "63cdeb60.87ee5c",
         "g": "4fc0e38e.f27c6c",
         "name": "",
-        "pin": "12",
+        "pin": "25",
         "intype": "down",
         "debounce": "25",
-        "read": false,
+        "read": true,
         "bcm": true,
         "x": 115,
         "y": 1915,
@@ -14893,10 +13247,10 @@
         "z": "63cdeb60.87ee5c",
         "g": "4fc0e38e.f27c6c",
         "name": "",
-        "pin": "13",
+        "pin": "5",
         "intype": "down",
         "debounce": "25",
-        "read": false,
+        "read": true,
         "bcm": true,
         "x": 115,
         "y": 1960,
@@ -14912,10 +13266,10 @@
         "z": "63cdeb60.87ee5c",
         "g": "4fc0e38e.f27c6c",
         "name": "",
-        "pin": "19",
+        "pin": "6",
         "intype": "down",
         "debounce": "25",
-        "read": false,
+        "read": true,
         "bcm": true,
         "x": 115,
         "y": 2005,
@@ -14931,10 +13285,10 @@
         "z": "63cdeb60.87ee5c",
         "g": "9ef1eb9c.6eb338",
         "name": "",
-        "pin": "22",
+        "pin": "23",
         "intype": "down",
         "debounce": "25",
-        "read": false,
+        "read": true,
         "bcm": true,
         "x": 115,
         "y": 1780,
@@ -14950,10 +13304,10 @@
         "z": "63cdeb60.87ee5c",
         "g": "5ae74bd6.3c8fa4",
         "name": "",
-        "pin": "16",
+        "pin": "12",
         "intype": "down",
         "debounce": "25",
-        "read": false,
+        "read": true,
         "bcm": true,
         "x": 115,
         "y": 2100,
@@ -14969,10 +13323,10 @@
         "z": "63cdeb60.87ee5c",
         "g": "5ae74bd6.3c8fa4",
         "name": "",
-        "pin": "26",
+        "pin": "13",
         "intype": "down",
         "debounce": "50",
-        "read": false,
+        "read": true,
         "bcm": true,
         "x": 115,
         "y": 2145,
@@ -14988,10 +13342,10 @@
         "z": "63cdeb60.87ee5c",
         "g": "5ae74bd6.3c8fa4",
         "name": "",
-        "pin": "20",
+        "pin": "19",
         "intype": "down",
         "debounce": "25",
-        "read": false,
+        "read": true,
         "bcm": true,
         "x": 115,
         "y": 2190,
@@ -15007,10 +13361,10 @@
         "z": "63cdeb60.87ee5c",
         "g": "5ae74bd6.3c8fa4",
         "name": "",
-        "pin": "21",
+        "pin": "16",
         "intype": "down",
         "debounce": "25",
-        "read": false,
+        "read": true,
         "bcm": true,
         "x": 115,
         "y": 2235,
@@ -15019,389 +13373,6 @@
                 "5b4e8b23.dfd0ec"
             ]
         ]
-    },
-    {
-        "id": "c63865b8f254ea53",
-        "type": "sACN",
-        "z": "63cdeb60.87ee5c",
-        "g": "9c7f4e26.63e738",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "42",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "42 Kitchen Scene",
-        "x": 1280,
-        "y": 1630,
-        "wires": []
-    },
-    {
-        "id": "ca3542826a4bc1ee",
-        "type": "sACN",
-        "z": "63cdeb60.87ee5c",
-        "g": "9c7f4e26.63e738",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "43",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "43 Dining Scene",
-        "x": 1270,
-        "y": 1665,
-        "wires": []
-    },
-    {
-        "id": "e1ac8401f96e4021",
-        "type": "sACN",
-        "z": "63cdeb60.87ee5c",
-        "g": "9c7f4e26.63e738",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "44",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "44 Kitchen Cans",
-        "x": 1270,
-        "y": 1700,
-        "wires": []
-    },
-    {
-        "id": "35e50f0b49cb9313",
-        "type": "sACN",
-        "z": "63cdeb60.87ee5c",
-        "g": "9c7f4e26.63e738",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "45",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "45 Garage Entry",
-        "x": 1270,
-        "y": 1735,
-        "wires": []
-    },
-    {
-        "id": "7be431e9c493f110",
-        "type": "sACN",
-        "z": "63cdeb60.87ee5c",
-        "g": "5343beb6.43dfe8",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "38",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "38 Sink Can",
-        "x": 1260,
-        "y": 1840,
-        "wires": []
-    },
-    {
-        "id": "93ba21cb0b16ba49",
-        "type": "sACN",
-        "z": "63cdeb60.87ee5c",
-        "g": "5343beb6.43dfe8",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "39",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "39 In Cabinet",
-        "x": 1270,
-        "y": 1875,
-        "wires": []
-    },
-    {
-        "id": "c910e4fa5b9de0d4",
-        "type": "sACN",
-        "z": "63cdeb60.87ee5c",
-        "g": "5343beb6.43dfe8",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "40",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "40 Under Cabinet",
-        "x": 1280,
-        "y": 1910,
-        "wires": []
-    },
-    {
-        "id": "6298724860689f34",
-        "type": "sACN",
-        "z": "63cdeb60.87ee5c",
-        "g": "5343beb6.43dfe8",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "41",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "41 Range Hood",
-        "x": 1270,
-        "y": 1945,
-        "wires": []
-    },
-    {
-        "id": "4d5fcd2933a19e97",
-        "type": "sACN",
-        "z": "63cdeb60.87ee5c",
-        "g": "934805d3.5384a8",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "34",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "34 Kitchen Scene",
-        "x": 1280,
-        "y": 2050,
-        "wires": []
-    },
-    {
-        "id": "45d3e8220e06b602",
-        "type": "sACN",
-        "z": "63cdeb60.87ee5c",
-        "g": "934805d3.5384a8",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "35",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "35 Dining Scene",
-        "x": 1270,
-        "y": 2085,
-        "wires": []
-    },
-    {
-        "id": "6fd11ee2f6e2063c",
-        "type": "sACN",
-        "z": "63cdeb60.87ee5c",
-        "g": "934805d3.5384a8",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "36",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "36 Sitting Area",
-        "x": 1270,
-        "y": 2120,
-        "wires": []
-    },
-    {
-        "id": "60974ef99fc52976",
-        "type": "sACN",
-        "z": "63cdeb60.87ee5c",
-        "g": "934805d3.5384a8",
-        "server": "2a2c6ae3b86b5493",
-        "universe": "11",
-        "channel": "37",
-        "transition": "instant",
-        "transitionRate": 50,
-        "transitionTime": 1000,
-        "name": "37 Night Light",
-        "x": 1270,
-        "y": 2155,
-        "wires": []
-    },
-    {
-        "id": "56e1681c71b76a55",
-        "type": "rbe",
-        "z": "63cdeb60.87ee5c",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 1060,
-        "y": 1870,
-        "wires": [
-            [
-                "35e50f0b49cb9313"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "d37b16fd70992cf2",
-        "type": "rbe",
-        "z": "63cdeb60.87ee5c",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 1060,
-        "y": 1935,
-        "wires": [
-            [
-                "6298724860689f34"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "33257317081cd9a4",
-        "type": "rbe",
-        "z": "63cdeb60.87ee5c",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 1065,
-        "y": 2155,
-        "wires": [
-            [
-                "7be431e9c493f110",
-                "e1ac8401f96e4021"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "cdbf3a9105729ee1",
-        "type": "rbe",
-        "z": "63cdeb60.87ee5c",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 1050,
-        "y": 2055,
-        "wires": [
-            [
-                "c63865b8f254ea53",
-                "4d5fcd2933a19e97"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "62612b7c3579738a",
-        "type": "rbe",
-        "z": "63cdeb60.87ee5c",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 1080,
-        "y": 2075,
-        "wires": [
-            [
-                "45d3e8220e06b602"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "93d182af94bf486e",
-        "type": "rbe",
-        "z": "63cdeb60.87ee5c",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 1045,
-        "y": 2090,
-        "wires": [
-            [
-                "60974ef99fc52976"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "72e36dd6aec804e7",
-        "type": "rbe",
-        "z": "63cdeb60.87ee5c",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 1035,
-        "y": 2250,
-        "wires": [
-            [
-                "6fd11ee2f6e2063c"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "c231f2204ef594b0",
-        "type": "rbe",
-        "z": "63cdeb60.87ee5c",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 1065,
-        "y": 2330,
-        "wires": [
-            [
-                "c910e4fa5b9de0d4"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "cd93bdab214afb39",
-        "type": "rbe",
-        "z": "63cdeb60.87ee5c",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 1035,
-        "y": 2315,
-        "wires": [
-            [
-                "93ba21cb0b16ba49"
-            ]
-        ],
-        "l": false
     },
     {
         "id": "9645eac13d10dae7",
@@ -15598,6 +13569,218 @@
             ]
         ],
         "l": false
+    },
+    {
+        "id": "5671337343d0d390",
+        "type": "function",
+        "z": "63cdeb60.87ee5c",
+        "g": "87e5c8327bf6bf51",
+        "name": "Global Read",
+        "func": "var dmx = global.get(\"dmxPatch\");\nvar output = [];\n\nfor (var i = 0; i < dmx.length; i++) {\n    output.splice(dmx[i].address, 0, dmx[i].value);\n}\n\nnode.warn(output); //not a warning. Here to give current status \n\nfor (var x = 0; x < dmx.length; x++) {\n    var retVal = {};\n    retVal.topic = dmx[x].address.toString(); // Convert topic to string\n    retVal.payload = dmx[x].value;\n    retVal.channel = x;\n    node.send(retVal);\n}\n\nnode.done();\n\nreturn null;\n\n\n\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1045,
+        "y": 1820,
+        "wires": [
+            [
+                "d4804be8aef8e029",
+                "858eec41a6948fe3",
+                "98920bd18c6eeaad"
+            ]
+        ]
+    },
+    {
+        "id": "d4804be8aef8e029",
+        "type": "change",
+        "z": "63cdeb60.87ee5c",
+        "g": "87e5c8327bf6bf51",
+        "name": "Repatch for Switch LEDs",
+        "rules": [
+            {
+                "t": "change",
+                "p": "topic",
+                "pt": "msg",
+                "from": "37",
+                "fromt": "str",
+                "to": "17",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "topic",
+                "pt": "msg",
+                "from": "38",
+                "fromt": "str",
+                "to": "18",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "topic",
+                "pt": "msg",
+                "from": "51",
+                "fromt": "str",
+                "to": "19",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "topic",
+                "pt": "msg",
+                "from": "9",
+                "fromt": "str",
+                "to": "20",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1170,
+        "y": 1780,
+        "wires": [
+            [
+                "af5c13db8511971a"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "858eec41a6948fe3",
+        "type": "change",
+        "z": "63cdeb60.87ee5c",
+        "g": "87e5c8327bf6bf51",
+        "name": "Repatch for Switch LEDs",
+        "rules": [
+            {
+                "t": "change",
+                "p": "topic",
+                "pt": "msg",
+                "from": "37",
+                "fromt": "str",
+                "to": "21",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "topic",
+                "pt": "msg",
+                "from": "57",
+                "fromt": "str",
+                "to": "22",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "topic",
+                "pt": "msg",
+                "from": "58",
+                "fromt": "str",
+                "to": "23",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "topic",
+                "pt": "msg",
+                "from": "7",
+                "fromt": "str",
+                "to": "24",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1170,
+        "y": 1820,
+        "wires": [
+            [
+                "af5c13db8511971a"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "98920bd18c6eeaad",
+        "type": "change",
+        "z": "63cdeb60.87ee5c",
+        "g": "87e5c8327bf6bf51",
+        "name": "Repatch for Switch LEDs",
+        "rules": [
+            {
+                "t": "change",
+                "p": "topic",
+                "pt": "msg",
+                "from": "37",
+                "fromt": "str",
+                "to": "25",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "topic",
+                "pt": "msg",
+                "from": "38",
+                "fromt": "str",
+                "to": "26",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "topic",
+                "pt": "msg",
+                "from": "52",
+                "fromt": "str",
+                "to": "27",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "topic",
+                "pt": "msg",
+                "from": "29",
+                "fromt": "str",
+                "to": "28",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1170,
+        "y": 1860,
+        "wires": [
+            [
+                "af5c13db8511971a"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "af5c13db8511971a",
+        "type": "sACN",
+        "z": "63cdeb60.87ee5c",
+        "g": "87e5c8327bf6bf51",
+        "server": "7377ef9ba9215f46",
+        "universe": "2",
+        "channel": "",
+        "transition": "instant",
+        "transitionRate": 50,
+        "transitionTime": 1000,
+        "name": "Universe 2",
+        "x": 1320,
+        "y": 1820,
+        "wires": []
     },
     {
         "id": "d7878960.c36fb8",
@@ -16199,7 +14382,7 @@
         "type": "bigtimer",
         "z": "6ab1315c.28be58",
         "g": "10e45efd.de6921",
-        "outtopic": "46",
+        "outtopic": "3",
         "outpayload1": "",
         "outpayload2": "",
         "name": "Bedroom",
@@ -16285,6 +14468,18 @@
         "xmonth5": 0,
         "xday6": 0,
         "xmonth6": 0,
+        "xday7": "",
+        "xmonth7": "",
+        "xday8": "",
+        "xmonth8": "",
+        "xday9": "",
+        "xmonth9": "",
+        "xday10": "",
+        "xmonth10": "",
+        "xday11": "",
+        "xmonth11": "",
+        "xday12": "",
+        "xmonth12": "",
         "xd1": 0,
         "xw1": 0,
         "xd2": 0,
@@ -16299,6 +14494,10 @@
         "xw6": 0,
         "suspend": false,
         "random": false,
+        "randon1": false,
+        "randoff1": false,
+        "randon2": false,
+        "randoff2": false,
         "repeat": true,
         "atstart": true,
         "odd": false,
@@ -16404,6 +14603,18 @@
         "xmonth5": 0,
         "xday6": 0,
         "xmonth6": 0,
+        "xday7": "",
+        "xmonth7": "",
+        "xday8": "",
+        "xmonth8": "",
+        "xday9": "",
+        "xmonth9": "",
+        "xday10": "",
+        "xmonth10": "",
+        "xday11": "",
+        "xmonth11": "",
+        "xday12": "",
+        "xmonth12": "",
         "xd1": 0,
         "xw1": 0,
         "xd2": 0,
@@ -16418,6 +14629,10 @@
         "xw6": 0,
         "suspend": false,
         "random": false,
+        "randon1": false,
+        "randoff1": false,
+        "randon2": false,
+        "randoff2": false,
         "repeat": true,
         "atstart": true,
         "odd": false,
@@ -16675,7 +14890,7 @@
         "type": "bigtimer",
         "z": "6ab1315c.28be58",
         "g": "10e45efd.de6921",
-        "outtopic": "54",
+        "outtopic": "6",
         "outpayload1": "",
         "outpayload2": "",
         "name": "Kitchen Sink",
@@ -16761,6 +14976,18 @@
         "xmonth5": 0,
         "xday6": 0,
         "xmonth6": 0,
+        "xday7": "",
+        "xmonth7": "",
+        "xday8": "",
+        "xmonth8": "",
+        "xday9": "",
+        "xmonth9": "",
+        "xday10": "",
+        "xmonth10": "",
+        "xday11": "",
+        "xmonth11": "",
+        "xday12": "",
+        "xmonth12": "",
         "xd1": 0,
         "xw1": 0,
         "xd2": 0,
@@ -16775,6 +15002,10 @@
         "xw6": 0,
         "suspend": false,
         "random": false,
+        "randon1": false,
+        "randoff1": false,
+        "randon2": false,
+        "randoff2": false,
         "repeat": true,
         "atstart": true,
         "odd": false,
@@ -17287,6 +15518,454 @@
             [
                 "faad35ad.a62078"
             ]
+        ]
+    },
+    {
+        "id": "be45042ceefac11d",
+        "type": "myq-device-node",
+        "z": "6ab1315c.28be58",
+        "user": "6ea20a3a22c2f2da",
+        "name": "Garage Door",
+        "serialnumber": "12000417D9",
+        "x": 810,
+        "y": 305,
+        "wires": [
+            [
+                "f0d53d73da8e55bb",
+                "451cab0f34a540a9"
+            ]
+        ]
+    },
+    {
+        "id": "0cdacca4f22c27e5",
+        "type": "inject",
+        "z": "6ab1315c.28be58",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "00 23 * * *",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "close",
+        "payloadType": "str",
+        "x": 620,
+        "y": 295,
+        "wires": [
+            [
+                "be45042ceefac11d"
+            ]
+        ]
+    },
+    {
+        "id": "f0d53d73da8e55bb",
+        "type": "debug",
+        "z": "6ab1315c.28be58",
+        "name": "debug 13",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1030,
+        "y": 295,
+        "wires": []
+    },
+    {
+        "id": "3d5e951c749f22ab",
+        "type": "inject",
+        "z": "6ab1315c.28be58",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "open",
+        "payloadType": "str",
+        "x": 625,
+        "y": 255,
+        "wires": [
+            [
+                "be45042ceefac11d"
+            ]
+        ]
+    },
+    {
+        "id": "1b227ad902589f77",
+        "type": "inject",
+        "z": "6ab1315c.28be58",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "info",
+        "payloadType": "str",
+        "x": 595,
+        "y": 190,
+        "wires": [
+            [
+                "be45042ceefac11d"
+            ]
+        ]
+    },
+    {
+        "id": "451cab0f34a540a9",
+        "type": "change",
+        "z": "6ab1315c.28be58",
+        "name": "Door State",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.state.door_state",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 975,
+        "y": 375,
+        "wires": [
+            [
+                "f0d53d73da8e55bb"
+            ]
+        ]
+    },
+    {
+        "id": "31cabafce3f62187",
+        "type": "inject",
+        "z": "6ab1315c.28be58",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "on",
+        "payloadType": "str",
+        "x": 585,
+        "y": 140,
+        "wires": [
+            [
+                "be45042ceefac11d"
+            ]
+        ]
+    },
+    {
+        "id": "9b0b02ba9811d746",
+        "type": "inject",
+        "z": "6ab1315c.28be58",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "lamp_on",
+        "payloadType": "str",
+        "x": 595,
+        "y": 95,
+        "wires": [
+            [
+                "be45042ceefac11d"
+            ]
+        ]
+    },
+    {
+        "id": "6cf7d3631e1fd328",
+        "type": "lock-myvehicle",
+        "z": "6ab1315c.28be58",
+        "name": "Lock Vehicle",
+        "onstar2": "e222ff25a2775054",
+        "delay": "",
+        "x": 1180,
+        "y": 720,
+        "wires": [
+            [
+                "fa7b7b977503d98b"
+            ],
+            [
+                "5c2fc572d561e1a3"
+            ]
+        ]
+    },
+    {
+        "id": "7dfa7b66794c7fb2",
+        "type": "inject",
+        "z": "6ab1315c.28be58",
+        "name": "23:00",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "00 23 * * *",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 945,
+        "y": 725,
+        "wires": [
+            [
+                "6cf7d3631e1fd328"
+            ]
+        ]
+    },
+    {
+        "id": "fa7b7b977503d98b",
+        "type": "debug",
+        "z": "6ab1315c.28be58",
+        "name": "debug 14",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1400,
+        "y": 705,
+        "wires": []
+    },
+    {
+        "id": "5c2fc572d561e1a3",
+        "type": "debug",
+        "z": "6ab1315c.28be58",
+        "name": "debug 15",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1400,
+        "y": 755,
+        "wires": []
+    },
+    {
+        "id": "9fe2756dc2ec1c36",
+        "type": "lock-myvehicle",
+        "z": "9f459007e3e44bbe",
+        "g": "5358904c0bf64cea",
+        "name": "Lock Vehicle",
+        "onstar2": "e222ff25a2775054",
+        "delay": "",
+        "x": 390,
+        "y": 435,
+        "wires": [
+            [
+                "79cc62108600ab68"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "d3df3df6a1ee2e4e",
+        "type": "unlock-myvehicle",
+        "z": "9f459007e3e44bbe",
+        "g": "5358904c0bf64cea",
+        "name": "Unlock Vehicle",
+        "onstar2": "e222ff25a2775054",
+        "delay": "",
+        "x": 400,
+        "y": 470,
+        "wires": [
+            [
+                "79cc62108600ab68"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "8725a07f26dc451a",
+        "type": "switch",
+        "z": "9f459007e3e44bbe",
+        "g": "5358904c0bf64cea",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "lock",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "unlock",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "start",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "stop",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 4,
+        "x": 210,
+        "y": 480,
+        "wires": [
+            [
+                "9fe2756dc2ec1c36"
+            ],
+            [
+                "d3df3df6a1ee2e4e"
+            ],
+            [
+                "d85b5b9a16ad6688"
+            ],
+            [
+                "82bf2fb5e8452942"
+            ]
+        ],
+        "outputLabels": [
+            "Lock",
+            "Unlock",
+            "Start",
+            "Stop"
+        ],
+        "l": false
+    },
+    {
+        "id": "79cc62108600ab68",
+        "type": "debug",
+        "z": "9f459007e3e44bbe",
+        "g": "5358904c0bf64cea",
+        "name": "debug 16",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 650,
+        "y": 480,
+        "wires": [],
+        "l": false
+    },
+    {
+        "id": "84ef6f8f5ea0f7dd",
+        "type": "mqtt in",
+        "z": "9f459007e3e44bbe",
+        "g": "5358904c0bf64cea",
+        "name": "",
+        "topic": "iPhone/commands/truck",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "168a34a1.219543",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 115,
+        "y": 480,
+        "wires": [
+            [
+                "8725a07f26dc451a"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "d85b5b9a16ad6688",
+        "type": "start-myvehicle",
+        "z": "9f459007e3e44bbe",
+        "g": "5358904c0bf64cea",
+        "name": "Start Vehicle",
+        "onstar2": "e222ff25a2775054",
+        "x": 390,
+        "y": 505,
+        "wires": [
+            [
+                "79cc62108600ab68"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "82bf2fb5e8452942",
+        "type": "cancel-start-myvehicle",
+        "z": "9f459007e3e44bbe",
+        "g": "5358904c0bf64cea",
+        "name": "Cancel Start Vehicle",
+        "onstar2": "e222ff25a2775054",
+        "x": 420,
+        "y": 540,
+        "wires": [
+            [
+                "79cc62108600ab68"
+            ],
+            []
         ]
     },
     {
