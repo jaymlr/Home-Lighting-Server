@@ -3479,7 +3479,7 @@
         "z": "1dde1153.96a027",
         "command": "git -C ~/.node-red/projects/Home_Lighting_Server push origin master",
         "addpay": "",
-        "append": "~/.node-red/projects/Home_Lighting_Server/",
+        "append": "",
         "useSpawn": "false",
         "timer": "",
         "winHide": false,
