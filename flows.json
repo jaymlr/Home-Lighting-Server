@@ -3474,6 +3474,77 @@
         "wires": []
     },
     {
+        "id": "ed8c374eedf95669",
+        "type": "exec",
+        "z": "1dde1153.96a027",
+        "command": "~/.node-red/projects/Home_Lighting_Server/git push",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 1330,
+        "y": 245,
+        "wires": [
+            [
+                "b20a60d02ab2adfb"
+            ],
+            [
+                "b20a60d02ab2adfb"
+            ],
+            [
+                "b20a60d02ab2adfb"
+            ]
+        ]
+    },
+    {
+        "id": "3cae8d884401cfd9",
+        "type": "inject",
+        "z": "1dde1153.96a027",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 990,
+        "y": 240,
+        "wires": [
+            [
+                "ed8c374eedf95669"
+            ]
+        ]
+    },
+    {
+        "id": "b20a60d02ab2adfb",
+        "type": "debug",
+        "z": "1dde1153.96a027",
+        "name": "debug 23",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1685,
+        "y": 240,
+        "wires": []
+    },
+    {
         "id": "2d95007a.50c",
         "type": "switch",
         "z": "5e0fc4e4.528864",
