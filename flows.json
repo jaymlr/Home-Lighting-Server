@@ -3477,15 +3477,15 @@
         "id": "ed8c374eedf95669",
         "type": "exec",
         "z": "1dde1153.96a027",
-        "command": "~/.node-red/projects/Home_Lighting_Server/git push",
+        "command": "git -C ~/.node-red/projects/Home_Lighting_Server push origin master",
         "addpay": "",
-        "append": "",
+        "append": "~/.node-red/projects/Home_Lighting_Server/",
         "useSpawn": "false",
         "timer": "",
         "winHide": false,
         "oldrc": false,
         "name": "",
-        "x": 1330,
+        "x": 1380,
         "y": 245,
         "wires": [
             [
