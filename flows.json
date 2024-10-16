@@ -3485,8 +3485,8 @@
         "winHide": false,
         "oldrc": false,
         "name": "",
-        "x": 1340,
-        "y": 245,
+        "x": 1540,
+        "y": 220,
         "wires": [
             [],
             [],
@@ -3520,7 +3520,7 @@
         "y": 240,
         "wires": [
             [
-                "ed8c374eedf95669"
+                "b2d480c09c1aabc9"
             ]
         ]
     },
@@ -3561,9 +3561,63 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1625,
-        "y": 270,
+        "x": 1790,
+        "y": 245,
         "wires": [
+            [
+                "86a73d81dc0a3007"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "b2d480c09c1aabc9",
+        "type": "exec",
+        "z": "1dde1153.96a027",
+        "command": "git -C ~/.node-red/projects/Home_Lighting_Server commit",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 1275,
+        "y": 315,
+        "wires": [
+            [],
+            [],
+            [
+                "99dc0c36b2081193"
+            ]
+        ]
+    },
+    {
+        "id": "99dc0c36b2081193",
+        "type": "switch",
+        "z": "1dde1153.96a027",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1535,
+        "y": 330,
+        "wires": [
+            [
+                "ed8c374eedf95669"
+            ],
             [
                 "86a73d81dc0a3007"
             ]
