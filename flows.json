@@ -3474,28 +3474,6 @@
         "wires": []
     },
     {
-        "id": "ed8c374eedf95669",
-        "type": "exec",
-        "z": "1dde1153.96a027",
-        "command": "git -C ~/.node-red/projects/Home_Lighting_Server push",
-        "addpay": "",
-        "append": "",
-        "useSpawn": "false",
-        "timer": "",
-        "winHide": false,
-        "oldrc": false,
-        "name": "",
-        "x": 1540,
-        "y": 220,
-        "wires": [
-            [],
-            [],
-            [
-                "1c71413ba83aec92"
-            ]
-        ]
-    },
-    {
         "id": "3cae8d884401cfd9",
         "type": "inject",
         "z": "1dde1153.96a027",
@@ -3516,8 +3494,8 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 970,
-        "y": 325,
+        "x": 980,
+        "y": 315,
         "wires": [
             [
                 "b2d480c09c1aabc9"
@@ -3536,39 +3514,9 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1885,
-        "y": 330,
+        "x": 1490,
+        "y": 340,
         "wires": []
-    },
-    {
-        "id": "1c71413ba83aec92",
-        "type": "change",
-        "z": "1dde1153.96a027",
-        "name": "",
-        "rules": [
-            {
-                "t": "change",
-                "p": "payload",
-                "pt": "msg",
-                "from": "0",
-                "fromt": "num",
-                "to": "Success!",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1790,
-        "y": 245,
-        "wires": [
-            [
-                "86a73d81dc0a3007"
-            ]
-        ],
-        "l": false
     },
     {
         "id": "b2d480c09c1aabc9",
@@ -3581,8 +3529,8 @@
         "timer": "",
         "winHide": false,
         "oldrc": false,
-        "name": "",
-        "x": 1275,
+        "name": "Commit Changes to Git Hub",
+        "x": 1180,
         "y": 315,
         "wires": [
             [
@@ -3616,12 +3564,10 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 1535,
-        "y": 330,
+        "x": 1375,
+        "y": 335,
         "wires": [
-            [
-                "ed8c374eedf95669"
-            ],
+            [],
             [
                 "86a73d81dc0a3007"
             ]
@@ -3640,8 +3586,8 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1660,
-        "y": 450,
+        "x": 1470,
+        "y": 270,
         "wires": []
     },
     {
