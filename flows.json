@@ -3522,7 +3522,7 @@
         "id": "b2d480c09c1aabc9",
         "type": "exec",
         "z": "1dde1153.96a027",
-        "command": "git -C ~/.node-red/projects/Home_Lighting_Server commit",
+        "command": "git -C ~/.node-red/projects/Home_Lighting_Server push",
         "addpay": "",
         "append": "",
         "useSpawn": "false",
