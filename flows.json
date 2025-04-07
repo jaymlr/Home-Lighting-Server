@@ -188,7 +188,9 @@
             "c749b1009e107bbc"
         ],
         "x": 109,
-        "y": 149
+        "y": 149,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "18cbccf1.f61093",
@@ -297,7 +299,9 @@
             "7d8a758b.16d9ec"
         ],
         "x": 109,
-        "y": 239
+        "y": 239,
+        "w": 532,
+        "h": 127
     },
     {
         "id": "db0a79fd.67e558",
@@ -319,7 +323,9 @@
             "1b73490d.e9c2a7"
         ],
         "x": 109,
-        "y": 374
+        "y": 374,
+        "w": 532,
+        "h": 222
     },
     {
         "id": "88161784.31d3f",
@@ -347,7 +353,9 @@
             "43258bd3.a2cb54"
         ],
         "x": 94,
-        "y": 989
+        "y": 989,
+        "w": 682,
+        "h": 242
     },
     {
         "id": "eda47e71.27d188",
@@ -370,7 +378,9 @@
             "d37ba3d2.7cdeb8"
         ],
         "x": 104,
-        "y": 609
+        "y": 609,
+        "w": 912,
+        "h": 142
     },
     {
         "id": "dbfa37b6.e65a98",
@@ -428,7 +438,7 @@
             "4e4ae062e1c631d8",
             "88f72e932d437a87"
         ],
-        "x": 64,
+        "x": 54,
         "y": 924
     },
     {
@@ -880,7 +890,8 @@
             "d7056d38.c9aad",
             "d2307654.574438",
             "ef18c5d4.6c9f58",
-            "56f4a7e0.aa4798"
+            "84ef1e8d014b5172",
+            "725a9d5fcd998174"
         ],
         "x": 394,
         "y": 539
@@ -899,7 +910,9 @@
             "636a69c1.ada058"
         ],
         "x": 104,
-        "y": 764
+        "y": 764,
+        "w": 672,
+        "h": 99.5
     },
     {
         "id": "10e45efd.de6921",
@@ -971,7 +984,9 @@
             "50118f53.95504"
         ],
         "x": 104,
-        "y": 874
+        "y": 874,
+        "w": 672,
+        "h": 99.5
     },
     {
         "id": "15b23181.1db8b6",
@@ -1679,6 +1694,27 @@
         ],
         "x": 1014,
         "y": 34
+    },
+    {
+        "id": "a78c61600a490db2",
+        "type": "group",
+        "z": "1dde1153.96a027",
+        "name": "Git Hub Commit",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "3cae8d884401cfd9",
+            "86a73d81dc0a3007",
+            "b2d480c09c1aabc9",
+            "99dc0c36b2081193",
+            "61389a173572a091",
+            "75404d8c99ec54b7"
+        ],
+        "x": 359,
+        "y": 79,
+        "w": 837,
+        "h": 152
     },
     {
         "id": "9ef1eb9c.6eb338",
@@ -3468,6 +3504,7 @@
         "id": "3cae8d884401cfd9",
         "type": "inject",
         "z": "1dde1153.96a027",
+        "g": "a78c61600a490db2",
         "name": "",
         "props": [
             {
@@ -3485,8 +3522,8 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 955,
-        "y": 310,
+        "x": 465,
+        "y": 160,
         "wires": [
             [
                 "b2d480c09c1aabc9"
@@ -3497,6 +3534,7 @@
         "id": "86a73d81dc0a3007",
         "type": "debug",
         "z": "1dde1153.96a027",
+        "g": "a78c61600a490db2",
         "name": "debug 25",
         "active": true,
         "tosidebar": true,
@@ -3505,14 +3543,15 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1580,
-        "y": 340,
+        "x": 1090,
+        "y": 190,
         "wires": []
     },
     {
         "id": "b2d480c09c1aabc9",
         "type": "exec",
         "z": "1dde1153.96a027",
+        "g": "a78c61600a490db2",
         "command": "git -C ~/.node-red/projects/Home_Lighting_Server push",
         "addpay": "",
         "append": "",
@@ -3521,8 +3560,8 @@
         "winHide": false,
         "oldrc": false,
         "name": "Commit Changes to Git Hub",
-        "x": 1180,
-        "y": 315,
+        "x": 690,
+        "y": 165,
         "wires": [
             [
                 "61389a173572a091"
@@ -3539,6 +3578,7 @@
         "id": "99dc0c36b2081193",
         "type": "switch",
         "z": "1dde1153.96a027",
+        "g": "a78c61600a490db2",
         "name": "",
         "property": "payload.code",
         "propertyType": "msg",
@@ -3555,8 +3595,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 1375,
-        "y": 335,
+        "x": 885,
+        "y": 185,
         "wires": [
             [
                 "75404d8c99ec54b7"
@@ -3571,6 +3611,7 @@
         "id": "61389a173572a091",
         "type": "debug",
         "z": "1dde1153.96a027",
+        "g": "a78c61600a490db2",
         "name": "debug 26",
         "active": true,
         "tosidebar": true,
@@ -3579,14 +3620,15 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1470,
-        "y": 270,
+        "x": 980,
+        "y": 120,
         "wires": []
     },
     {
         "id": "75404d8c99ec54b7",
         "type": "change",
         "z": "1dde1153.96a027",
+        "g": "a78c61600a490db2",
         "name": "",
         "rules": [
             {
@@ -3602,14 +3644,62 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1445,
-        "y": 325,
+        "x": 955,
+        "y": 175,
         "wires": [
             [
                 "86a73d81dc0a3007"
             ]
         ],
         "l": false
+    },
+    {
+        "id": "68ec8b67bf19fade",
+        "type": "function",
+        "z": "1dde1153.96a027",
+        "name": "Back up Context Data",
+        "func": "var fs = global.get('fs');\nvar globalList = [];\n\nvar outputs = [];\n\nglobal.keys().forEach(key => {\n    globalList.push({ [key]: global.get(key) });\n})\n\nvar saveString = JSON.stringify(globalList);\nfs.writeFileSync('/home/pi/.node-red/globals_persist.json', saveString, function (err) {\n    if (err) { console.log(err); return; }\n\n    console.log(\"Saved persistant store.\");\n\n    return null;\n});\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 935,
+        "y": 415,
+        "wires": [
+            [
+                "61389a173572a091"
+            ]
+        ]
+    },
+    {
+        "id": "e179bbaa2fea20ee",
+        "type": "inject",
+        "z": "1dde1153.96a027",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 735,
+        "y": 415,
+        "wires": [
+            [
+                "68ec8b67bf19fade"
+            ]
+        ]
     },
     {
         "id": "2d95007a.50c",
@@ -7348,11 +7438,9 @@
         "x": 185,
         "y": 1390,
         "wires": [
+            [],
             [
                 "2bdca16142b87fe1"
-            ],
-            [
-                "c1888f28.b9c11"
             ],
             [
                 "49aedabb.aa5eb4"
@@ -7364,25 +7452,29 @@
                 "6474cdad.60dd24"
             ],
             [
-                "56f4a7e0.aa4798"
-            ],
-            [
-                "45a62572.22c95c"
-            ],
-            [
-                "45a62572.22c95c"
-            ],
-            [],
-            [],
-            [],
-            [
                 "fe177276.4e41d"
             ],
-            [],
-            [],
+            [
+                "c1888f28.b9c11"
+            ],
+            [
+                "84ef1e8d014b5172"
+            ],
+            [
+                "37b0fd92.a3e102"
+            ],
             [
                 "3601f645.9ba40a"
             ],
+            [
+                "45a62572.22c95c"
+            ],
+            [
+                "45a62572.22c95c"
+            ],
+            [],
+            [],
+            [],
             [],
             [],
             [],
@@ -7403,9 +7495,7 @@
                 "de41602d10dabe99"
             ],
             [],
-            [
-                "37b0fd92.a3e102"
-            ],
+            [],
             [],
             [],
             [],
@@ -8692,31 +8782,6 @@
         ]
     },
     {
-        "id": "56f4a7e0.aa4798",
-        "type": "noraf-fan",
-        "z": "81d7285e.2e2f98",
-        "g": "5abf5d3e.1998e4",
-        "devicename": "Range Hood",
-        "roomhint": "Kitchen",
-        "name": "7 Range Hood",
-        "passthru": false,
-        "percentcontrol": true,
-        "nora": "7fb41129.b4c1f",
-        "topic": "7",
-        "twofactor": "off",
-        "twofactorpin": "",
-        "language": "en",
-        "speeds": [],
-        "filter": false,
-        "x": 550,
-        "y": 765,
-        "wires": [
-            [
-                "d430e08a.d58cc"
-            ]
-        ]
-    },
-    {
         "id": "c1706c4a.55dd4",
         "type": "noraf-fan",
         "z": "81d7285e.2e2f98",
@@ -9016,7 +9081,7 @@
         "type": "debug",
         "z": "81d7285e.2e2f98",
         "name": "",
-        "active": false,
+        "active": true,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -9509,6 +9574,76 @@
         "y": 2005,
         "wires": [
             []
+        ],
+        "l": false
+    },
+    {
+        "id": "84ef1e8d014b5172",
+        "type": "noraf-switch",
+        "z": "81d7285e.2e2f98",
+        "g": "5abf5d3e.1998e4",
+        "devicename": "Range Hood ",
+        "roomhint": "Kitchen",
+        "name": "7 Range Hood",
+        "passthru": false,
+        "errorifstateunchaged": false,
+        "nora": "7fb41129.b4c1f",
+        "topic": "7",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "twofactor": "off",
+        "twofactorpin": "",
+        "filter": true,
+        "asyncCmd": false,
+        "outputs": 1,
+        "x": 545,
+        "y": 765,
+        "wires": [
+            [
+                "725a9d5fcd998174"
+            ]
+        ]
+    },
+    {
+        "id": "725a9d5fcd998174",
+        "type": "change",
+        "z": "81d7285e.2e2f98",
+        "g": "5abf5d3e.1998e4",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "100",
+                "tot": "num"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "bool",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 655,
+        "y": 765,
+        "wires": [
+            [
+                "5567314.37031d",
+                "e1f0064.65006f8"
+            ]
         ],
         "l": false
     },
@@ -19985,7 +20120,7 @@
         "broker": "71c48797.0fa608",
         "nl": false,
         "rap": true,
-        "rh": 0,
+        "rh": "1",
         "inputs": 0,
         "x": 240,
         "y": 215,
@@ -19993,8 +20128,7 @@
             [
                 "2a8b1588.4f0e8a",
                 "1e2dc057.b0a968",
-                "a794a528bfb46574",
-                "a611106e167a4efb"
+                "a794a528bfb46574"
             ]
         ]
     },
@@ -20012,11 +20146,10 @@
         "rh": 0,
         "inputs": 0,
         "x": 240,
-        "y": 265,
+        "y": 325,
         "wires": [
             [
-                "7c4d62fb.27cecc",
-                "a611106e167a4efb"
+                "7c4d62fb.27cecc"
             ]
         ]
     },
@@ -20039,8 +20172,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 375,
-        "y": 330,
+        "x": 450,
+        "y": 250,
         "wires": [
             [
                 "f9328bb9.f00b5"
@@ -20202,7 +20335,7 @@
         "type": "debug",
         "z": "e1600371.3f038",
         "name": "debug 1",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -20262,8 +20395,8 @@
         "font": "",
         "fontSize": "",
         "color": "#000000",
-        "x": 555,
-        "y": 330,
+        "x": 785,
+        "y": 250,
         "wires": []
     },
     {
@@ -20322,7 +20455,7 @@
         "label": "°F",
         "format": "{{value}}°",
         "min": "32",
-        "max": "90",
+        "max": "95",
         "colors": [
             "#006d8f",
             "#669c35",
@@ -20360,8 +20493,8 @@
         "seg2": "13",
         "diff": false,
         "className": "",
-        "x": 450,
-        "y": 265,
+        "x": 440,
+        "y": 325,
         "wires": []
     },
     {
@@ -20377,8 +20510,8 @@
         "title": "Basement Temperature",
         "label": "°F",
         "format": "{{value}}°",
-        "min": "20",
-        "max": "90",
+        "min": "32",
+        "max": "95",
         "colors": [
             "#006d8f",
             "#669c35",
@@ -20433,35 +20566,19 @@
         "title": "Outside Temperature ",
         "label": "°F",
         "format": "{{value}} °F",
-        "min": 0,
-        "max": "100",
+        "min": "32",
+        "max": "95",
         "colors": [
-            "#00b500",
+            "#004d65",
             "#e6e600",
             "#ca3838"
         ],
-        "seg1": "",
-        "seg2": "",
+        "seg1": "40",
+        "seg2": "90",
         "diff": false,
         "className": "",
         "x": 445,
         "y": 735,
-        "wires": []
-    },
-    {
-        "id": "a611106e167a4efb",
-        "type": "debug",
-        "z": "e1600371.3f038",
-        "name": "debug 10",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 605,
-        "y": 275,
         "wires": []
     },
     {
@@ -20583,7 +20700,7 @@
         "contentType": "",
         "userProps": "",
         "correl": "",
-        "expiry": "",
+        "expiry": "10",
         "broker": "71c48797.0fa608",
         "x": 750,
         "y": 545,
@@ -20972,7 +21089,7 @@
         "title": "Living Room Temperature ",
         "label": "°F",
         "format": "{{value}} °F",
-        "min": "40",
+        "min": "32",
         "max": "95",
         "colors": [
             "#0056d6",
@@ -21120,6 +21237,31 @@
         "x": 870,
         "y": 490,
         "wires": []
+    },
+    {
+        "id": "ce2553667b922089",
+        "type": "inject",
+        "z": "e1600371.3f038",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 585,
+        "y": 590,
+        "wires": [
+            [
+                "4321a4238319bbd3"
+            ]
+        ]
     },
     {
         "id": "8126e5801f3a5622",
@@ -22031,7 +22173,7 @@
         "rules": [
             {
                 "t": "gte",
-                "v": "25",
+                "v": "32",
                 "vt": "num"
             }
         ],
@@ -22562,7 +22704,7 @@
         "rules": [
             {
                 "t": "gte",
-                "v": "25",
+                "v": "32",
                 "vt": "num"
             }
         ],
