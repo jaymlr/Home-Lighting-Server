@@ -66,7 +66,7 @@
     {
         "id": "9095f0dc.1b5f2",
         "type": "tab",
-        "label": "Pool New",
+        "label": "Pool",
         "disabled": false,
         "info": ""
     },
@@ -155,7 +155,9 @@
             "13fccd2662244d89"
         ],
         "x": 134,
-        "y": 459
+        "y": 459,
+        "w": 657,
+        "h": 117
     },
     {
         "id": "9197b9a2.20443",
@@ -174,7 +176,9 @@
             "b69f44a51f4e166e"
         ],
         "x": 134,
-        "y": 309
+        "y": 309,
+        "w": 492,
+        "h": 127
     },
     {
         "id": "32affb4.73da304",
@@ -695,7 +699,9 @@
             "81b1a09905f2a8cd"
         ],
         "x": 394,
-        "y": 1034
+        "y": 1034,
+        "w": 742,
+        "h": 162
     },
     {
         "id": "e01de4df.552598",
@@ -719,7 +725,9 @@
             "08fdbe22537db0e4"
         ],
         "x": 394,
-        "y": 1194
+        "y": 1194,
+        "w": 742,
+        "h": 162
     },
     {
         "id": "a70ed36e.9949d",
@@ -739,7 +747,9 @@
             "970eed72.4ad9a"
         ],
         "x": 389,
-        "y": 1544
+        "y": 1544,
+        "w": 752,
+        "h": 122
     },
     {
         "id": "952cc7a4.ea7a98",
@@ -758,7 +768,9 @@
             "30b7af43.afffe"
         ],
         "x": 394,
-        "y": 1364
+        "y": 1364,
+        "w": 747,
+        "h": 82
     },
     {
         "id": "89c3d578.39ed38",
@@ -777,7 +789,9 @@
             "a2e7fb37.ddf7d8"
         ],
         "x": 389,
-        "y": 1824
+        "y": 1864,
+        "w": 747,
+        "h": 82
     },
     {
         "id": "5e9f0c85.8180f4",
@@ -799,7 +813,9 @@
             "c5321394.33e5e"
         ],
         "x": 384,
-        "y": 2264
+        "y": 2264,
+        "w": 752,
+        "h": 82
     },
     {
         "id": "245b49e6.eb9c06",
@@ -820,7 +836,9 @@
             "1a0b60b.b0bb39f"
         ],
         "x": 399,
-        "y": 899
+        "y": 899,
+        "w": 742,
+        "h": 127
     },
     {
         "id": "fde38eb.24a387",
@@ -839,10 +857,14 @@
             "ae296510.6cd968",
             "54a6639f.fda254",
             "9b94b8f2.d9b638",
-            "fc2d28c9.c4b758"
+            "fc2d28c9.c4b758",
+            "aa785442a8299433",
+            "dd589e1b6f8a1caa"
         ],
         "x": 389,
-        "y": 1679
+        "y": 1679,
+        "w": 752,
+        "h": 177
     },
     {
         "id": "cbdb2bc0.f0c2e8",
@@ -863,7 +885,9 @@
             "2f1ac40f.20374c"
         ],
         "x": 389,
-        "y": 1454
+        "y": 1454,
+        "w": 752,
+        "h": 82
     },
     {
         "id": "5abf5d3e.1998e4",
@@ -894,7 +918,9 @@
             "725a9d5fcd998174"
         ],
         "x": 394,
-        "y": 539
+        "y": 539,
+        "w": 742,
+        "h": 357
     },
     {
         "id": "a9dec928.07f788",
@@ -1160,10 +1186,14 @@
             "b4a992a4e51a2b1f",
             "836e5e465cbb2845",
             "16657f14134784a3",
-            "5d6197db2c68208b"
+            "5d6197db2c68208b",
+            "3b97340b6c92e4ea",
+            "be57d0afcfa5bfa1"
         ],
         "x": 134,
-        "y": 29
+        "y": 29,
+        "w": 667,
+        "h": 292
     },
     {
         "id": "70ad0114e2e0acc8",
@@ -1205,7 +1235,9 @@
             "ab8612a4.f849"
         ],
         "x": 394,
-        "y": 49
+        "y": 49,
+        "w": 812,
+        "h": 202
     },
     {
         "id": "ce1aa9bbd4ee1200",
@@ -1299,7 +1331,9 @@
             "de41602d10dabe99"
         ],
         "x": 389,
-        "y": 1914
+        "y": 1954,
+        "w": 747,
+        "h": 132
     },
     {
         "id": "055b7d942e637826",
@@ -1340,7 +1374,9 @@
             "88f509fe.dbbce8"
         ],
         "x": 559,
-        "y": 264
+        "y": 264,
+        "w": 417,
+        "h": 112
     },
     {
         "id": "1f88e28c03038d82",
@@ -1373,7 +1409,9 @@
             "5d93594ca17ac239"
         ],
         "x": 84,
-        "y": 229
+        "y": 229,
+        "w": 1027,
+        "h": 342
     },
     {
         "id": "80fd2c3c061d2613",
@@ -1432,7 +1470,9 @@
             "bda2178735e2d59e"
         ],
         "x": 79,
-        "y": 589
+        "y": 589,
+        "w": 882,
+        "h": 682
     },
     {
         "id": "e1a19811451176a2",
@@ -1454,7 +1494,9 @@
             "6862ecac6cd9a2dd"
         ],
         "x": 89,
-        "y": 14
+        "y": 14,
+        "w": 602,
+        "h": 187
     },
     {
         "id": "f57ae668afdc79b1",
@@ -1473,7 +1515,9 @@
             "4edc49a08189fa97"
         ],
         "x": 134,
-        "y": 599
+        "y": 599,
+        "w": 672,
+        "h": 82
     },
     {
         "id": "5358904c0bf64cea",
@@ -1561,7 +1605,9 @@
             "d591a1d78189a2c6"
         ],
         "x": 389,
-        "y": 2054
+        "y": 2094,
+        "w": 752,
+        "h": 82
     },
     {
         "id": "2690aa6cafc9da0f",
@@ -1660,7 +1706,9 @@
             "130ac09178a53f8f"
         ],
         "x": 124,
-        "y": 24
+        "y": 24,
+        "w": 1137,
+        "h": 372
     },
     {
         "id": "f12dcaa8.49dc4",
@@ -1693,7 +1741,9 @@
             "e0b9ab111b0e2d43"
         ],
         "x": 1014,
-        "y": 34
+        "y": 34,
+        "w": 667,
+        "h": 462
     },
     {
         "id": "a78c61600a490db2",
@@ -1974,7 +2024,7 @@
         "id": "51e14a37.7fc8c4",
         "type": "mqtt-broker",
         "name": "Tonys MQTT",
-        "broker": "192.82.0.30",
+        "broker": "138.43.75.63",
         "port": "1883",
         "clientid": "",
         "autoConnect": true,
@@ -2202,9 +2252,11 @@
     {
         "id": "7ffda893.f912f8",
         "type": "ui_tab",
-        "name": "Thermostats",
+        "name": "Garage",
         "icon": "dashboard",
-        "order": 4
+        "order": 4,
+        "disabled": false,
+        "hidden": false
     },
     {
         "id": "a1c4f87a.b7325",
@@ -3970,7 +4022,7 @@
         "rules": [
             {
                 "t": "eq",
-                "v": "55",
+                "v": "45",
                 "vt": "num"
             },
             {
@@ -3991,7 +4043,7 @@
         "y": 195,
         "wires": [
             [
-                "316bbbe3.4adc44"
+                "be57d0afcfa5bfa1"
             ],
             [
                 "316bbbe3.4adc44"
@@ -4014,8 +4066,8 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 600,
-        "y": 195,
+        "x": 650,
+        "y": 210,
         "wires": []
     },
     {
@@ -4928,6 +4980,56 @@
         "wires": [
             [
                 "6396cb56c5dd9631"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "3b97340b6c92e4ea",
+        "type": "mqtt out",
+        "z": "5e0fc4e4.528864",
+        "g": "a4e285991c7fcfba",
+        "name": "String Lights",
+        "topic": "pool/commands/landscapeLights",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "1f93e99b.c5c5fe",
+        "x": 660,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "be57d0afcfa5bfa1",
+        "type": "change",
+        "z": "5e0fc4e4.528864",
+        "g": "a4e285991c7fcfba",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "255",
+                "fromt": "num",
+                "to": "1",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 555,
+        "y": 180,
+        "wires": [
+            [
+                "3b97340b6c92e4ea"
             ]
         ],
         "l": false
@@ -7517,7 +7619,9 @@
             [
                 "9b94b8f2.d9b638"
             ],
-            [],
+            [
+                "dd589e1b6f8a1caa"
+            ],
             [],
             [],
             [],
@@ -7939,7 +8043,7 @@
         "initialize": "",
         "finalize": "",
         "x": 430,
-        "y": 1865,
+        "y": 1905,
         "wires": [
             [
                 "a2e7fb37.ddf7d8"
@@ -7960,7 +8064,7 @@
         "finalize": "",
         "libs": [],
         "x": 1030,
-        "y": 1865,
+        "y": 1905,
         "wires": [
             [
                 "3b15256b.faaa2a"
@@ -7979,7 +8083,7 @@
         "initialize": "",
         "finalize": "",
         "x": 855,
-        "y": 1865,
+        "y": 1905,
         "wires": [
             [
                 "f84b4384.f28ba"
@@ -8740,7 +8844,7 @@
         "twofactorpin": "",
         "filter": false,
         "x": 735,
-        "y": 1865,
+        "y": 1905,
         "wires": [
             [
                 "fcb2da36.039038"
@@ -9160,7 +9264,7 @@
         "finalize": "",
         "libs": [],
         "x": 430,
-        "y": 1955,
+        "y": 1995,
         "wires": [
             [
                 "7a49b53fa461f8c8"
@@ -9181,7 +9285,7 @@
         "finalize": "",
         "libs": [],
         "x": 1030,
-        "y": 1985,
+        "y": 2025,
         "wires": [
             [
                 "3b15256b.faaa2a"
@@ -9217,7 +9321,7 @@
         "twofactorpin": "",
         "filter": false,
         "x": 755,
-        "y": 1955,
+        "y": 1995,
         "wires": [
             [
                 "8612fc46057c972b"
@@ -9442,7 +9546,7 @@
         "initialize": "",
         "finalize": "",
         "x": 430,
-        "y": 2095,
+        "y": 2135,
         "wires": [
             [
                 "d591a1d78189a2c6"
@@ -9462,7 +9566,7 @@
         "initialize": "",
         "finalize": "",
         "x": 1035,
-        "y": 2095,
+        "y": 2135,
         "wires": [
             [
                 "3b15256b.faaa2a"
@@ -9483,7 +9587,7 @@
         "property": "payload",
         "name": "",
         "x": 905,
-        "y": 2095,
+        "y": 2135,
         "wires": [
             [
                 "98c82d1b1a43094c"
@@ -9504,7 +9608,7 @@
         "finalize": "",
         "libs": [],
         "x": 850,
-        "y": 2095,
+        "y": 2135,
         "wires": [
             [
                 "f1ed7c3483e6d23c"
@@ -9541,7 +9645,7 @@
         "twofactorpin": "",
         "filter": true,
         "x": 735,
-        "y": 2095,
+        "y": 2135,
         "wires": [
             [
                 "200855c0d49f3228"
@@ -9554,8 +9658,8 @@
         "z": "81d7285e.2e2f98",
         "name": "Pool Thermostat is in Pool Flow",
         "info": "",
-        "x": 530,
-        "y": 2175,
+        "x": 520,
+        "y": 2235,
         "wires": []
     },
     {
@@ -9571,7 +9675,7 @@
         "finalize": "",
         "libs": [],
         "x": 430,
-        "y": 2005,
+        "y": 2045,
         "wires": [
             []
         ],
@@ -9643,6 +9747,62 @@
             [
                 "5567314.37031d",
                 "e1f0064.65006f8"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "aa785442a8299433",
+        "type": "noraf-light",
+        "z": "81d7285e.2e2f98",
+        "g": "fde38eb.24a387",
+        "devicename": "String Lights",
+        "lightcolor": false,
+        "brightnesscontrol": true,
+        "commandonlycolor": false,
+        "turnonwhenbrightnesschanges": true,
+        "passthru": false,
+        "errorifstateunchaged": false,
+        "statepayload": true,
+        "brightnessoverride": "",
+        "roomhint": "Exterior",
+        "name": "45 String Lights",
+        "colortype": "hsv",
+        "nora": "7fb41129.b4c1f",
+        "topic": "45",
+        "onvalue": "100",
+        "onvalueType": "num",
+        "offvalue": "0",
+        "offvalueType": "num",
+        "temperaturemin": "2700",
+        "temperaturemax": "5500",
+        "twofactor": "off",
+        "twofactorpin": "",
+        "filter": false,
+        "x": 740,
+        "y": 1815,
+        "wires": [
+            [
+                "fc2d28c9.c4b758"
+            ]
+        ]
+    },
+    {
+        "id": "dd589e1b6f8a1caa",
+        "type": "function",
+        "z": "81d7285e.2e2f98",
+        "g": "fde38eb.24a387",
+        "name": "Format for Google Home",
+        "func": "var status;\nvar newMsg;\n\nstatus = msg.payload;\nif (status === 0)\n{\n  newMsg = false\n}\n    \nelse \n{\n    newMsg = true\n}\n \n \nmsg.payload = {\n    \n'on': newMsg\n}\n\n\nreturn msg;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 430,
+        "y": 1815,
+        "wires": [
+            [
+                "aa785442a8299433"
             ]
         ],
         "l": false
@@ -16891,7 +17051,7 @@
         "label": "Wake Up Alarm",
         "tooltip": "",
         "group": "f317d46b4975171c",
-        "order": 6,
+        "order": 1,
         "width": 0,
         "height": 0,
         "passthru": true,
@@ -21269,7 +21429,7 @@
         "z": "f526b41d76812bbe",
         "name": "Pool",
         "group": "f317d46b4975171c",
-        "order": 8,
+        "order": 2,
         "width": 0,
         "height": 0,
         "passthru": false,
@@ -21297,7 +21457,7 @@
         "z": "f526b41d76812bbe",
         "name": "Camper",
         "group": "f317d46b4975171c",
-        "order": 8,
+        "order": 3,
         "width": 0,
         "height": 0,
         "passthru": false,
@@ -21323,23 +21483,23 @@
         "id": "d75ea61310816c37",
         "type": "ui_button",
         "z": "f526b41d76812bbe",
-        "name": "Thermostats",
+        "name": "Garage",
         "group": "f317d46b4975171c",
-        "order": 8,
+        "order": 4,
         "width": 0,
         "height": 0,
         "passthru": false,
-        "label": "Thermostats",
+        "label": "Garage",
         "tooltip": "",
         "color": "",
         "bgcolor": "",
         "className": "",
         "icon": "",
-        "payload": "Thermostats",
+        "payload": "Garage",
         "payloadType": "str",
         "topic": "",
         "topicType": "str",
-        "x": 240,
+        "x": 230,
         "y": 200,
         "wires": [
             [
@@ -21353,7 +21513,7 @@
         "z": "f526b41d76812bbe",
         "name": "Home",
         "group": "f317d46b4975171c",
-        "order": 8,
+        "order": 5,
         "width": 0,
         "height": 0,
         "passthru": false,
@@ -21381,7 +21541,7 @@
         "z": "f526b41d76812bbe",
         "name": "Trends",
         "group": "f317d46b4975171c",
-        "order": 8,
+        "order": 6,
         "width": 0,
         "height": 0,
         "passthru": false,
@@ -21409,7 +21569,7 @@
         "z": "f526b41d76812bbe",
         "name": "Camper Dashboard",
         "group": "f317d46b4975171c",
-        "order": 8,
+        "order": 7,
         "width": 0,
         "height": 0,
         "passthru": false,
